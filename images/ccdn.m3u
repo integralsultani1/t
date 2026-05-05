@@ -41,7 +41,7 @@ http://tv.indigotv.me:80/live.ts?channelId=414&deviceMac=00:1A:79:7E:C5:5D
 
 
 #EXTINF:0.1tvg-id="geonews.pk" tvg-name="PK | GEO NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/GEO_News_logo_in_Urdu.png/150px-GEO_News_logo_in_Urdu.png" group-title="PAKISTAN | NEWS",PK | GEO NEWS HD
-http://sfourk.cloud/play/live.php?mac=00:1A:79:6c:2f:00&stream=437781&extension=ts&play_token=OHSI854M69
+http://sfourk.cloud/play/live.php?mac=00:1A:79:7b:7f:68&stream=437781&extension=ts&play_token=OHSI854M69
 
 
 #EXTINF:0.1tvg-id="arynews.eg" tvg-name="PK | ARY News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Arynews.jpg" group-title="PAKISTAN | NEWS",PK | ARY News HD
@@ -177,11 +177,11 @@ http://tv.indigotv.me:80/live.ts?channelId=32496&deviceMac=00:1A:79:7E:C5:5D&uid
 
 
 #EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BBC_News_%282008%29.svg/2560px-BBC_News_%282008%29.svg.png" group-title="DSTV | NEWS",Af | BBC News
-http://sfourk.cloud/play/live.php?mac=00:1A:79:6c:2f:00&stream=1624582&extension=ts&play_token=I2SCCuR5y7
+http://sfourk.cloud/play/live.php?mac=00:1A:79:7b:7f:68&stream=1624582&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/2048px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="DSTV | NEWS",Af | BBC World News
-http://sfourk.cloud/play/live.php?mac=00:1A:79:6c:2f:00&stream=162143&extension=ts&play_token=OHSI854M69
+http://sfourk.cloud/play/live.php?mac=00:1A:79:7b:7f:68&stream=162143&extension=ts&play_token=OHSI854M69
 
 
 
@@ -191,34 +191,34 @@ https://live-hls-web-aje-gcp.thehlive.com/AJE/02.m3u8
 
 
 #EXTINF:0.1tvg-id="" tvg-name="IN: Al Jazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TRT_World_logosu.png" group-title="DSTV | NEWS", TRT World
-http://sfourk.cloud/play/live.php?mac=00:1A:79:6c:2f:00&stream=1695134&extension=ts&play_token=RAwe0AnryY
+http://sfourk.cloud/play/live.php?mac=00:1A:79:7b:7f:68&stream=1695134&extension=ts&play_token=RAwe0AnryY
 
 
 #EXTINF:0.1tvg-id="" tvg-name="Skynews" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbEcTC5pyFCmCwnGeRAsxAMr8bjIhTUZvAsgA3tsDtbPvLUxFKc-1H9xnfUmoAcVIudQ&usqp=CAU" group-title="DSTV | NEWS", Sky News
-http://sfourk.cloud/play/live.php?mac=00:1A:79:6c:2f:00&stream=162155&extension=ts&play_token=5ccfew7GvY
+http://sfourk.cloud/play/live.php?mac=00:1A:79:7b:7f:68&stream=162155&extension=ts&play_token=5ccfew7GvY
 
 
 
 #EXTINF:0.1tvg-id="dunyanews.pk" tvg-name="IN: Al Jazeera" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" group-title="DSTV | NEWS", Af | Al Jazeera 1
-http://sfourk.cloud/play/live.php?mac=00:1A:79:6c:2f:00&stream=499085&extension=ts&play_token=hLARwyWzTK
+http://sfourk.cloud/play/live.php?mac=00:1A:79:7b:7f:68&stream=499085&extension=ts&play_token=hLARwyWzTK
 
 
 
 #EXTINF:0.1tvg-id="" tvg-name="CNN" tvg-logo="http://138.199.27.237:8080/PORTUGAL/CNN.png" group-title="DSTV | NEWS", CNN
-http://sfourk.cloud/play/live.php?mac=00:1A:79:6c:2f:00&stream=324963&extension=ts&play_token=DBfDID5xxx
+http://sfourk.cloud/play/live.php?mac=00:1A:79:7b:7f:68&stream=324963&extension=ts&play_token=DBfDID5xxx
 
 
 
 #EXTINF:0.1tvg-id="" tvg-name="abcnewsau" tvg-logo="https://quantxlabs.com/wp-content/uploads/2019/10/ABC_News_Channel.svg_.png" group-title="DSTV | NEWS", Abc News Mellbourne
-http://sfourk.cloudplay/live.php?mac=00:1A:79:6c:2f:00&stream=750644&extension=ts&play_token=HZABbkbH6y
+http://sfourk.cloudplay/live.php?mac=00:1A:79:7b:7f:68&stream=750644&extension=ts&play_token=HZABbkbH6y
 
 #EXTINF:0.1tvg-id="" tvg-name="euronews" tvg-logo="https://staticcyl.euronews.com/wp-content/uploads/2023/03/Euronews-Com-Services_logo-2023_RGB_white-on-neon.png" group-title="DSTV | NEWS", Euro News
-http://sfourk.cloud/play/live.php?mac=00:1A:79:6c:2f:00&stream=1537460&extension=ts&play_token=SRL4g6TqEK
+http://sfourk.cloud/play/live.php?mac=00:1A:79:7b:7f:68&stream=1537460&extension=ts&play_token=SRL4g6TqEK
 
 
 
 #EXTINF:0.1tvg-id="" tvg-name="france24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/France_24_logo_%282013%29.svg/2048px-France_24_logo_%282013%29.svg.png" group-title="DSTV | NEWS", France 24
-http://sfourk.cloud/play/live.php?mac=00:1A:79:6c:2f:00&stream=1159400&extension=ts&play_token=z14ZoCgDaR
+http://sfourk.cloud/play/live.php?mac=00:1A:79:7b:7f:68&stream=1159400&extension=ts&play_token=z14ZoCgDaR
 
 
 
@@ -359,27 +359,27 @@ http://tv.indigotv.me:80/live.ts?channelId=57490&deviceMac=00:1A:79:7E:C5:5D&uid
 
 
 #EXTINF:0.1tvg-id="" tvg-name="Sony Sab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/SONY_SAB_SD.png" group-title="PAKISTAN | ENTERTAINMENT",Sony Sab
-http://sfourk.cloud//play/live.php?mac=00:1A:79:6c:2f:00&stream=440279&extension=ts&play_token=z14ZoCgDaR
+http://sfourk.cloud//play/live.php?mac=00:1A:79:7b:7f:68&stream=440279&extension=ts&play_token=z14ZoCgDaR
 
 
 #EXTINF:-1 tvg-id="183" tvg-name="IN: Sony Max 2 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Sony-max-2-in.png" group-title="INDIAN",IN: Sony Max 2 FHD
-http://sfourk.cloud/play/live.php?mac=00:1A:79:6c:2f:00&stream=440274&extension=ts&play_token=z14ZoCgDaR
+http://sfourk.cloud/play/live.php?mac=00:1A:79:7b:7f:68&stream=440274&extension=ts&play_token=z14ZoCgDaR
 
 #EXTINF:-1 tvg-id="184" tvg-name="IN: Sony Max FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Sony_Max_HD_2022.png" group-title="INDIAN",IN: Sony Max FHD
-http://sfourk.cloud/play/live.php?mac=00:1A:79:6c:2f:00&stream=1015334&extension=ts&play_token=z14ZoCgDaR
+http://sfourk.cloud/play/live.php?mac=00:1A:79:7b:7f:68&stream=1015334&extension=ts&play_token=z14ZoCgDaR
 
 
 #EXTINF:-1 tvg-id="188" tvg-name="IN: Sony Pal FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/SONY_PAL_LOGO.png" group-title="INDIAN",IN: Sony Pal FHD
-http://sfourk.cloud/play/live.php?mac=00:1A:79:6c:2f:00&stream=440283&extension=ts&play_token=z14ZoCgDaR
+http://sfourk.cloud/play/live.php?mac=00:1A:79:7b:7f:68&stream=440283&extension=ts&play_token=z14ZoCgDaR
 
 
 
 #EXTINF:-1 tvg-id="193" tvg-name="IN: Sony TV FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png" group-title="INDIAN",IN: Sony TV FHD
-http://sfourk.cloud/play/live.php?mac=00:1A:79:6c:2f:00&stream=440272&extension=ts&play_token=z14ZoCgDaR
+http://sfourk.cloud/play/live.php?mac=00:1A:79:7b:7f:68&stream=440272&extension=ts&play_token=z14ZoCgDaR
 
 
 #EXTINF:-1 tvg-id="187" tvg-name="IN: Sony Wah FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Sony_WAH.png" group-title="INDIAN",IN: Sony Wah FHD
-http://sfourk.cloud/play/live.php?mac=00:1A:79:6c:2f:00&stream=440284&extension=ts&play_token=z14ZoCgDaR
+http://sfourk.cloud/play/live.php?mac=00:1A:79:7b:7f:68&stream=440284&extension=ts&play_token=z14ZoCgDaR
 
 
 
@@ -388,77 +388,77 @@ http://sfourk.cloud/play/live.php?mac=00:1A:79:6c:2f:00&stream=440284&extension=
 
 
 #EXTINF:-1 tvg-id="49859" tvg-name="IN: & Flix FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" group-title="INDIAN",IN: & Flix FHD
-http://sfourk.cloud/play/live.php?mac=00:1A:79:6c:2f:00&stream=440347&extension=ts&play_token=z14ZoCgDaR
+http://sfourk.cloud/play/live.php?mac=00:1A:79:7b:7f:68&stream=440347&extension=ts&play_token=z14ZoCgDaR
 
 #EXTINF:-1 tvg-id="139" tvg-name="IN: & Pictures FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNIl4ClIXbtGxUBkT_rdNvIieOLgmIJwjPPw&s" group-title="INDIAN",IN: & Pictures FHD
-http://sfourk.cloud/play/live.php?mac=00:1A:79:6c:2f:00&stream=440349&extension=ts&play_token=z14ZoCgDaR
+http://sfourk.cloud/play/live.php?mac=00:1A:79:7b:7f:68&stream=440349&extension=ts&play_token=z14ZoCgDaR
 
 
 #EXTINF:-1 tvg-id="170" tvg-name="IN: & Privé FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/%26Priv%C3%A9_HD_Logo_2025.png" group-title="INDIAN",IN: & Privé FHD
-http://sfourk.cloud/play/live.php?mac=00:1A:79:6c:2f:00&stream=441190&extension=ts&play_token=z14ZoCgDaR
+http://sfourk.cloud/play/live.php?mac=00:1A:79:7b:7f:68&stream=441190&extension=ts&play_token=z14ZoCgDaR
 
 
 #EXTINF:-1 tvg-id="152" tvg-name="IN: B4U Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png" group-title="INDIAN",IN: B4U Movies
-http://sfourk.cloud/play/live.php?mac=00:1A:79:6c:2f:00&stream=440286&extension=ts&play_token=z14ZoCgDaR
+http://sfourk.cloud/play/live.php?mac=00:1A:79:7b:7f:68&stream=440286&extension=ts&play_token=z14ZoCgDaR
 
 #EXTINF:-1 tvg-id="62412" tvg-name="IN: Colors Cineplex BollywoodhD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Colors_Cineplex_Bollywood.jpg" group-title="INDIAN",IN: Colors Cineplex BollywoodhD
-http://sfourk.cloud/play/live.php?mac=00:1A:79:6c:2f:00&stream=440357&extension=ts&play_token=z14ZoCgDaR
+http://sfourk.cloud/play/live.php?mac=00:1A:79:7b:7f:68&stream=440357&extension=ts&play_token=z14ZoCgDaR
 
 #EXTINF:-1 tvg-id="470" tvg-name="IN: Colors Cineplex FHD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tata-play-bollywood-premiere-in.png" group-title="INDIAN",IN: TataPlay Bollywood Premiere
-http://sfourk.cloud/play/live.php?mac=00:1A:79:6c:2f:00&stream=440468&extension=ts&play_token=z14ZoCgDaR
+http://sfourk.cloud/play/live.php?mac=00:1A:79:7b:7f:68&stream=440468&extension=ts&play_token=z14ZoCgDaR
 
 
 #EXTINF:-1 tvg-id="507562" tvg-name="Bollywood 1 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="BOLLYWOOD ➾ 24/7",CM: Bollywood 1 FHD
-http://sfourk.cloud/play/live.php?mac=00:1A:79:6c:2f:00&stream=1629640&extension=ts&play_token=z14ZoCgDaR
+http://sfourk.cloud/play/live.php?mac=00:1A:79:7b:7f:68&stream=1629640&extension=ts&play_token=z14ZoCgDaR
 
 #EXTINF:-1 tvg-id="507562" tvg-name="Bollywood 2 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="BOLLYWOOD ➾ 24/7",CM: Bollywood 2 FHD
-http://sfourk.cloud/play/live.php?mac=00:1A:79:6c:2f:00&stream=1629679&extension=ts&play_token=z14ZoCgDaR
+http://sfourk.cloud/play/live.php?mac=00:1A:79:7b:7f:68&stream=1629679&extension=ts&play_token=z14ZoCgDaR
 
 #EXTINF:-1 tvg-id="507562" tvg-name="Bollywood 3 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="BOLLYWOOD ➾ 24/7",CM: Bollywood 3 FHD
-http://sfourk.cloud/play/live.php?mac=00:1A:79:6c:2f:00&stream=1629537&extension=ts&play_token=z14ZoCgDaR
+http://sfourk.cloud/play/live.php?mac=00:1A:79:7b:7f:68&stream=1629537&extension=ts&play_token=z14ZoCgDaR
 
 #EXTINF:-1 tvg-id="507562" tvg-name="Bollywood 4 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="BOLLYWOOD ➾ 24/7",CM: Bollywood 4 FHD
-http://sfourk.cloud/play/live.php?mac=00:1A:79:6c:2f:00&stream=1629549&extension=ts&play_token=1629549
+http://sfourk.cloud/play/live.php?mac=00:1A:79:7b:7f:68&stream=1629549&extension=ts&play_token=1629549
 
 #EXTINF:-1 tvg-id="196" tvg-name="IN: Star Gold FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Star_Gold_HD_2011.png" group-title="INDIAN",IN: Star Gold FHD
-http://sfourk.cloud/play/live.php?mac=00:1A:79:6c:2f:00&stream=440261&extension=ts&play_token=z14ZoCgDaR
+http://sfourk.cloud/play/live.php?mac=00:1A:79:7b:7f:68&stream=440261&extension=ts&play_token=z14ZoCgDaR
 
 
 #EXTINF:-1 tvg-id="207" tvg-name="IN: Zee Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="INDIAN",IN: Zee Cinema
-http://sfourk.cloud/play/live.php?mac=00:1A:79:6c:2f:00&stream=440253&extension=ts&play_token=z14ZoCgDaR
+http://sfourk.cloud/play/live.php?mac=00:1A:79:7b:7f:68&stream=440253&extension=ts&play_token=z14ZoCgDaR
 
 #EXTINF:-1 tvg-id="440429" tvg-name="HINDI: MINIPLEX HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/miniplex.png" group-title="ASIA| HINDI",HINDI: MINIPLEX HD
-http://sfourk.cloud/play/live.php?mac=00:1A:79:6c:2f:00&stream=440429&extension=ts&play_token=z14ZoCgDaR
+http://sfourk.cloud/play/live.php?mac=00:1A:79:7b:7f:68&stream=440429&extension=ts&play_token=z14ZoCgDaR
 
 
 
 
 
 #EXTINF:-1 tvg-id="440435" tvg-name="HINDI: MOVIES NOW HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/MOVIES-NOW-HD.jpg" group-title="ASIA| HINDI",HINDI: MOVIES NOW HD
-http://sfourk.cloud/play/live.php?mac=00:1A:79:6c:2f:00&stream=440435&extension=ts&play_token=z14ZoCgDaR
+http://sfourk.cloud/play/live.php?mac=00:1A:79:7b:7f:68&stream=440435&extension=ts&play_token=z14ZoCgDaR
 
 #EXTINF:-1 tvg-id="440432" tvg-name="HINDI: MNX HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/mnx_hd.png" group-title="ASIA| HINDI",HINDI: MNX HD
-http://sfourk.cloud/play/live.php?mac=00:1A:79:6c:2f:00&stream=440432&extension=ts&play_token=z14ZoCgDaR
+http://sfourk.cloud/play/live.php?mac=00:1A:79:7b:7f:68&stream=440432&extension=ts&play_token=z14ZoCgDaR
 
 
 #EXTINF:-1 tvg-id="189" tvg-name="IN: Sony Pix FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/SONY_PIX_SD.png" group-title="INDIAN",IN: Sony Pix FHD
-http://sfourk.cloud/play/live.php?mac=00:1A:79:6c:2f:00&stream=441205&extension=ts&play_token=z14ZoCgDaR
+http://sfourk.cloud/play/live.php?mac=00:1A:79:7b:7f:68&stream=441205&extension=ts&play_token=z14ZoCgDaR
 
 
 #EXTINF:0.1tvg-id="" tvg-name="star movies" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/starmovies.png" group-title="PAKISTAN | ENTERTAINMENT",Star Movies
-http://sfourk.cloud/play/live.php?mac=00:1A:79:6c:2f:00&stream=441216&extension=ts&play_token=z14ZoCgDaR
+http://sfourk.cloud/play/live.php?mac=00:1A:79:7b:7f:68&stream=441216&extension=ts&play_token=z14ZoCgDaR
 
 
 #EXTINF:0.1tvg-id="" tvg-name="star movies" tvg-logo="https://www.animationxpress.com/wp-content/uploads/2021/04/starmovies-hd-lg.jpg" group-title="PAKISTAN | ENTERTAINMENT",Star Movies Select
-http://sfourk.cloud/play/live.php?mac=00:1A:79:6c:2f:00&stream=441215&extension=ts&play_token=z14ZoCgDaR
+http://sfourk.cloud/play/live.php?mac=00:1A:79:7b:7f:68&stream=441215&extension=ts&play_token=z14ZoCgDaR
 
 
 #EXTINF:0.1tvg-id="" tvg-name="Hbo" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/e88f2f1db154d1e7555f9cbd99f38fcc.png" group-title="PAKISTAN | ENTERTAINMENT",HBO
-http://sfourk.cloud/play/live.php?mac=00:1A:79:6c:2f:00&stream=325972&extension=ts&play_token=z14ZoCgDaR
+http://sfourk.cloud/play/live.php?mac=00:1A:79:7b:7f:68&stream=325972&extension=ts&play_token=z14ZoCgDaR
 
 
 #EXTINF:-1 tvg-id="483" tvg-name="UK: Sky Cinema Premiere" tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2020/06/SKY-CINEMA-PREMIERE-June-2020.png" group-title="UNITED KINGDOM",UK: Sky Cinema Premiere
-http://sfourk.cloud/play/live.php?mac=00:1A:79:6c:2f:00&stream=162353&extension=ts&play_token=z14ZoCgDaR
+http://sfourk.cloud/play/live.php?mac=00:1A:79:7b:7f:68&stream=162353&extension=ts&play_token=z14ZoCgDaR
 
 
 
@@ -514,7 +514,7 @@ http://tv.indigotv.me:80/live.ts?channelId=19754&deviceMac=00:1A:79:7E:C5:5D&uid
 http://xtv.ooo:80/live/nizar11/amin/153154.ts
 
 #EXTINF:0.1tvg-id="cartoonnetworkhd.in1" tvg-name="IN: Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" group-title="INDIAN | KIDS Cartoon",IN: Cartoon Network 1
-http://sfourk.cloud/play/live.php?mac=00:1A:79:6c:2f:00&stream=324981&extension=ts&play_token=z14ZoCgDaR
+http://sfourk.cloud/play/live.php?mac=00:1A:79:7b:7f:68&stream=324981&extension=ts&play_token=z14ZoCgDaR
 
 
 #EXTINF:0.1tvg-id="nick.in" tvg-name="IN: Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" group-title="INDIAN | KIDS Cartoon",IN: Nick
