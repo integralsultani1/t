@@ -506,27 +506,24 @@ http://tv.indigotv.me:80/live.ts?channelId=270&uid=1384&deviceMac=00:1A:79:7E:C5
 
 
 #EXTINF:0.1tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Minimax_Pakistan_blue_logo_2023.png" group-title="INDIAN | KIDS Cartoon",MiniMax
-http://xtv.ooo:80/live/nizar11/amin/153154.ts
+http://filex.me:8080/live/mohsinbashir/002784/966922.ts
 
 #EXTINF:0.1tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/KidsZonelogo-sm.png" group-title="INDIAN | KIDS Cartoon",Kids zone
 http://tv.indigotv.me:80/live.ts?channelId=19754&deviceMac=00:1A:79:7E:C5:5D&uid=5954
 
 #EXTINF:0.1tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" group-title="INDIAN | KIDS Cartoon",IN: Cartoon Network
-http://xtv.ooo:80/live/nizar11/amin/153154.ts
-
+http://filex.me:8080/live/mohsinbashir/002784/5.ts
 
 #EXTINF:0.1tvg-id="cartoonnetworkhd.in1" tvg-name="IN: Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" group-title="INDIAN | KIDS Cartoon",IN: Cartoon Network 1
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:da:2e:78&stream=174577&extension=ts&play_token=I2SCCuR5y7
+http://filex.me:8080/live/mohsinbashir/002784/291153.ts
+
 
 #EXTINF:0.1tvg-id="nick.in" tvg-name="IN: Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" group-title="INDIAN | KIDS Cartoon",IN: Nick
-http://xtv.ooo:80/live/nizar11/amin/150482.ts
-
-
-
+http://filex.me:8080/live/mohsinbashir/002784/246770.ts
 
 
 #EXTINF:0.1tvg-id="" tvg-name="24/7 MOTU PATLU 01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Motu_Patlu.Jpg" group-title="INDIAN | KIDS Cartoon",24/7 MOTU PATLU
-http://xtv.ooo:80/live/nizar11/amin/307079.ts
+http://filex.me:8080/live/mohsinbashir/002784/957364.ts
 
 #EXTINF:0.1tvg-id="pogo.in" tvg-name="IN: Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png" group-title="INDIAN | KIDS Cartoon",IN: Pogo
 http://tv.indigotv.me:80/live.ts?channelId=256&deviceMac=00:1A:79:7E:C5:5D&uid=5954
