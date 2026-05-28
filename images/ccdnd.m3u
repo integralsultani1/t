@@ -502,10 +502,10 @@ http://tv.indigotv.me:80/live.ts?channelId=270&uid=1384&deviceMac=00:1A:79:7E:C5
 
 
 
-
-
-
 #EXTINF:0.1tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Minimax_Pakistan_blue_logo_2023.png" group-title="INDIAN | KIDS Cartoon",MiniMax
+http://filex.me:8080/live/mohsinbashir/002784/966900.ts
+
+#EXTINF:0.1tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Minimax_Pakistan_blue_logo_2023.png" group-title="INDIAN | KIDS Cartoon",MiniMax 1
 http://filex.me:8080/live/mohsinbashir/002784/966922.ts
 
 #EXTINF:0.1tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/KidsZonelogo-sm.png" group-title="INDIAN | KIDS Cartoon",Kids zone
