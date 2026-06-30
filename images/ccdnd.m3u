@@ -179,7 +179,7 @@ http://tv.indigotv.me:80/live.ts?channelId=32496&deviceMac=00:1A:79:40:26:59&uid
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:da:2e:78&stream=75865&extension=ts&play_token=I2SCCuR5y7
 
 #EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/2048px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="DSTV | NEWS",Af | BBC World News
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:da:2e:78&stream=20644&extension=ts&play_token=I2SCCuR5y7
+http://line.iptveros.com:80/play/live.php?mac=00:1A:79:da:2e:78&stream=2083899&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:0.1tvg-id="" tvg-name="IN: Al Jazeera" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" group-title="DSTV | NEWS", Af | Al Jazeera
