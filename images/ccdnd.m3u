@@ -512,7 +512,8 @@ http://tv.indigotv.me:80/live.ts?channelId=270&uid=1384&deviceMac=00:1A:79:40:26
 
 
 #EXTINF:0.1tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="INDIAN | KIDS Cartoon",MiniMax
-http://filex.me:8080/live/mohsinbashir/002784/966901.ts
+http://filex.me:8080/live/mohsinbashir/002784/966902.ts
+
 
 #EXTINF:0.1tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="INDIAN | KIDS Cartoon",MiniMax 1
 http://filex.me:8080/live/mohsinbashir/002784/966923.ts
