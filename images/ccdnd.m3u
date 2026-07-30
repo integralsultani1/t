@@ -53,7 +53,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=408&deviceMac=00:1A:79:7E:C5:5D&uid=4
 http://tv.cloudcdn.me:80/live.ts?channelId=371&deviceMac=00:1A:79:7E:C5:5D&uid=4640
 
 #EXTINF:0.1tvg-id="" tvg-name="PK | Bol News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/BOL_News_logo.png" group-title="PAKISTAN | NEWS",PK | Bol News HD
-http://tv.cloudcdn.me:80/live.ts?channelId=398&uid=14553&deviceMac=00:1A:79:7E:C5:5D&uid=4640
+http://tv.cloudcdn.me:80/live.ts?channelId=397&uid=14553&deviceMac=00:1A:79:7E:C5:5D&uid=4640
 
 
 #EXTINF:0.1tvg-id="dunyanews.pk" tvg-name="PK | Dunya News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Dunya_News.png" group-title="PAKISTAN | NEWS",PK | Dunya News
@@ -174,12 +174,11 @@ http://tv.cloudcdn.me:80/live.ts?channelId=32496&deviceMac=00:1A:79:7E:C5:5D&uid
 
 
 
-
 #EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BBC_News_%282008%29.svg/2560px-BBC_News_%282008%29.svg.png" group-title="DSTV | NEWS",Af | BBC News
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:da:2e:78&stream=75865&extension=ts&play_token=I2SCCuR5y7
 
 #EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/2048px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="DSTV | NEWS",Af | BBC World News
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:da:2e:78&stream=2083899&extension=ts&play_token=I2SCCuR5y7
+http://line.iptveros.com:80/play/live.php?mac=00:1A:79:da:2e:78&stream=45331&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:0.1tvg-id="" tvg-name="IN: Al Jazeera" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" group-title="DSTV | NEWS", Af | Al Jazeera
@@ -209,12 +208,11 @@ http://line.iptveros.com:80/play/live.php?mac=00:1A:79:da:2e:78&stream=1130813&e
 
 
 #EXTINF:0.1tvg-id="" tvg-name="euronews" tvg-logo="https://staticcyl.euronews.com/wp-content/uploads/2023/03/Euronews-Com-Services_logo-2023_RGB_white-on-neon.png" group-title="DSTV | NEWS", Euro News
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:da:2e:78&stream=889010&extension=ts&play_token=I2SCCuR5y7
+http://line.iptveros.com:80/play/live.php?mac=00:1A:79:da:2e:78&stream=1920888&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:0.1tvg-id="" tvg-name="france24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/France_24_logo_%282013%29.svg/2048px-France_24_logo_%282013%29.svg.png" group-title="DSTV | NEWS", France 24
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:da:2e:78&stream=2083863&extension=ts&play_token=I2SCCuR5y7
-
 
 
 
