@@ -53,7 +53,7 @@ http://tv.indigotv.me:80/live.ts?channelId=408&deviceMac=00:1A:79:a5:d3:11
 http://tv.indigotv.me:80/live.ts?channelId=371&deviceMac=00:1A:79:a5:d3:11
 
 #EXTINF:0.1tvg-id="" tvg-name="PK | Bol News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/BOL_News_logo.png" group-title="PAKISTAN | NEWS",PK | Bol News HD
-http://tv.indigotv.me:80/live.ts?channelId=39714553&deviceMac=00:1A:79:a5:d3:11
+http://tv.indigotv.me:80/live.ts?channelId=397&deviceMac=00:1A:79:a5:d3:11
 
 
 #EXTINF:0.1tvg-id="dunyanews.pk" tvg-name="PK | Dunya News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Dunya_News.png" group-title="PAKISTAN | NEWS",PK | Dunya News
