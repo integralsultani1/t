@@ -174,10 +174,10 @@ http://tv.indigotv.me:80/live.ts?channelId=32496&deviceMac=00:1A:79:a5:d3:11
 
 
 
-#EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/960px-BBC_World_News_red.svg.png" group-title="DSTV | NEWS",Af | BBC News
+#EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/960px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png" group-title="DSTV | NEWS",Af | BBC News
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=75865&extension=ts&play_token=I2SCCuR5y7
 
-#EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/960px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png" group-title="DSTV | NEWS",Af | BBC World News
+#EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/960px-BBC_World_News_red.svg.png" group-title="DSTV | NEWS",Af | BBC World News
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=75865&extension=ts&play_token=I2SCCuR5y7
 
 
