@@ -12,7 +12,7 @@
 http://tv.indigotv.me:80/live.ts?channelId=132248&deviceMac=00:1A:79:a5:d3:11
 
 
-#EXTINF:0.1tvg-id="" tvg-name="MADINA LIVE*" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Saudi_Sunnah_TV_2020.png group-title=" ISLAMIC",MADINA LIVE
+#EXTINF:0.1tvg-id="" tvg-name="MADINA LIVE*" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Saudi_Sunnah_TV_2020.png" group-title=" ISLAMIC",MADINA LIVE
 http://tv.indigotv.me:80/live.ts?channelId=132244&deviceMac=00:1A:79:a5:d3:11
 
 
