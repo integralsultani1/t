@@ -211,7 +211,7 @@ http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1130813&e
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1920888&extension=ts&play_token=I2SCCuR5y7
 
 
-#EXTINF:0.1tvg-id="" tvg-name="france24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/France_24_logo_%282013%29.svg/2048px-France_24_logo_%282013%29.svg.png" group-title="DSTV | NEWS", France 24
+#EXTINF:0.1tvg-id="" tvg-name="france24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/France_24_logo_%282013%29.svg/960px-France_24_logo_%282013%29.svg.png" group-title="DSTV | NEWS", France 24
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=149653&extension=ts&play_token=I2SCCuR5y7
 
 
