@@ -423,7 +423,7 @@ http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=155969&ex
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=155975&extension=ts&play_token=I2SCCuR5y7
 
 
-#EXTINF:-1 tvg-id="440429" tvg-name="HINDI: MINIPLEX HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/miniplex.png" group-title="ASIA| HINDI",HINDI: MINIPLEX HD
+#EXTINF:-1 tvg-id="440429" tvg-name="HINDI: MINIPLEX HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/miniplex.png" group-title="ASIA| HINDI",HINDI: MINIPLEX HD
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=156020&extension=ts&play_token=I2SCCuR5y7
 
 
@@ -453,15 +453,15 @@ http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=155729&ex
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1920197&extension=ts&play_token=I2SCCuR5y7
 
 
-#EXTINF:-1 tvg-id="483" tvg-name="UK: Sky Cinema Premiere" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sky_Cinema_-_Logo_2021.svg/960px-Sky_Cinema_-_Logo_2021.svg.png" group-title="UNITED KINGDOM",UK: Sky Cinema Premiere
+#EXTINF:-1 tvg-id="483" tvg-name="UK: Sky Cinema Premiere" tvg-logo="https://media.info/l/o/1/1438.1771976269.png" group-title="UNITED KINGDOM",UK: Sky Cinema Premiere
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=30517&extension=ts&play_token=I2SCCuR5y7
 
 
-#EXTINF:-1 tvg-id="483" tvg-name="UK: Sky Cinema Premiere" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sky_Cinema_-_Logo_2021.svg/960px-Sky_Cinema_-_Logo_2021.svg.png" group-title="UNITED KINGDOM",UK: Sky Cinema Thriller
+#EXTINF:-1 tvg-id="483" tvg-name="UK: Sky Cinema Premiere" tvg-logo="https://media.info/l/o/1/1438.1771976269.png" group-title="UNITED KINGDOM",UK: Sky Cinema Thriller
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1458787&extension=ts&play_token=I2SCCuR5y7
 
 
-#EXTINF:-1 tvg-id="483" tvg-name="UK: Sky Cinema Premiere" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sky_Cinema_-_Logo_2021.svg/960px-Sky_Cinema_-_Logo_2021.svg.png" group-title="UNITED KINGDOM",UK: Sky Cinema Hits
+#EXTINF:-1 tvg-id="483" tvg-name="UK: Sky Cinema Premiere" tvg-logo="https://media.info/l/o/1/1438.1771976269.png" group-title="UNITED KINGDOM",UK: Sky Cinema Hits
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1458790&extension=ts&play_token=I2SCCuR5y7
 
 
@@ -485,7 +485,7 @@ http://tv.indigotv.me:80/live.ts?channelId=26034&deviceMac=00:1A:79:a5:d3:11
 #EXTINF:0.1tvg-id="" tvg-name="sky sports cricket" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky-sports-main-cricket.jpg" group-title="CRICKET",Sky sports cricket
 http://tv.indigotv.me:80/live.ts?channelId=281&deviceMac=00:1A:79:a5:d3:11
 
-#EXTINF:0.1tvg-id="" tvg-name="star sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="CRICKET", Star sports 1
+#EXTINF:0.1tvg-id="" tvg-name="star sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/STAR_SPORTS_1_HD_HINDI.png/960px-STAR_SPORTS_1_HD_HINDI.png" group-title="CRICKET", Star sports 1
 http://tv.indigotv.me:80/live.ts?channelId=295&deviceMac=00:1A:79:a5:d3:11
 
 #EXTINF:-1. tvg-id="TNT.Sports.1.uk" tvg-name="" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/06/TNT-Sports-Logo-Stacked.png.webp" ,TNT Sports 1
