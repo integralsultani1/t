@@ -174,10 +174,10 @@ http://tv.indigotv.me:80/live.ts?channelId=32496&deviceMac=00:1A:79:a5:d3:11
 
 
 
-#EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/960px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png" group-title="DSTV | NEWS",Af | BBC News
+#EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://media.info/l/o/1/1043.1406401403.png" group-title="DSTV | NEWS",Af | BBC News
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=75865&extension=ts&play_token=I2SCCuR5y7
 
-#EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/960px-BBC_World_News_red.svg.png" group-title="DSTV | NEWS",Af | BBC World News
+#EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://media.info/l/o/1/1045.1565613151.png" group-title="DSTV | NEWS",Af | BBC World News
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=75865&extension=ts&play_token=I2SCCuR5y7
 
 
@@ -190,7 +190,7 @@ https://live-hls-web-aje-gcp.thehlive.com/AJE/02.m3u8
 #EXTINF:0.1tvg-id="" tvg-name="IN: Al Jazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TRT_World_logosu.png" group-title="DSTV | NEWS", TRT World
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1603686&extension=ts&play_token=I2SCCuR5y7
 
-#EXTINF:0.1tvg-id="" tvg-name="Skynews" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbEcTC5pyFCmCwnGeRAsxAMr8bjIhTUZvAsgA3tsDtbPvLUxFKc-1H9xnfUmoAcVIudQ&usqp=CAU" group-title="DSTV | NEWS", Sky News
+#EXTINF:0.1tvg-id="" tvg-name="Skynews" tvg-logo="https://media.info/l/o/1/1083.1641766200.png" group-title="DSTV | NEWS", Sky News
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=30504&extension=ts&play_token=I2SCCuR5y7
 
 
@@ -203,7 +203,7 @@ http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=459632&ex
 
 
 
-#EXTINF:0.1tvg-id="" tvg-name="abcnewsau" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/ABC_News_%28Australia%29_logo.svg/1280px-ABC_News_%28Australia%29_logo.svg.png" group-title="DSTV | NEWS", Abc News Mellbourne
+#EXTINF:0.1tvg-id="" tvg-name="abcnewsau" tvg-logo="https://media.info/l/o/6/6058.1747114438.png" group-title="DSTV | NEWS", Abc News Mellbourne
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1130813&extension=ts&play_token=I2SCCuR5y7
 
 
@@ -211,7 +211,7 @@ http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1130813&e
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1920888&extension=ts&play_token=I2SCCuR5y7
 
 
-#EXTINF:0.1tvg-id="" tvg-name="france24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/France_24_logo_%282013%29.svg/960px-France_24_logo_%282013%29.svg.png" group-title="DSTV | NEWS", France 24
+#EXTINF:0.1tvg-id="" tvg-name="france24" tvg-logo="https://media.info/l/o/1/1417.1443114332.png" group-title="DSTV | NEWS", France 24
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=149653&extension=ts&play_token=I2SCCuR5y7
 
 
@@ -441,11 +441,11 @@ http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=156021&ex
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=156004&extension=ts&play_token=I2SCCuR5y7
 
 
-#EXTINF:0.1tvg-id="" tvg-name="star movies" tvg-logo="https://images.seeklogo.com/logo-png/19/1/star-movies-logo-png_seeklogo-192343.png" group-title="PAKISTAN | ENTERTAINMENT",Star Movies
+#EXTINF:0.1tvg-id="" tvg-name="star movies" tvg-logo="https://adgully.com/img/400/66643_star-movies-1.png.jpg" group-title="PAKISTAN | ENTERTAINMENT",Star Movies
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1116488&extension=ts&play_token=I2SCCuR5y7
 
 
-#EXTINF:0.1tvg-id="" tvg-name="star movies" tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2020/03/Star-Movies-Select-HD.jpg" group-title="PAKISTAN | ENTERTAINMENT",Star Movies Select
+#EXTINF:0.1tvg-id="" tvg-name="star movies" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a1/Star_Movies_Select_logo.png" group-title="PAKISTAN | ENTERTAINMENT",Star Movies Select
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=155729&extension=ts&play_token=I2SCCuR5y7
 
 
