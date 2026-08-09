@@ -190,7 +190,7 @@ https://live-hls-web-aje-gcp.thehlive.com/AJE/02.m3u8
 #EXTINF:0.1tvg-id="" tvg-name="IN: Al Jazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TRT_World_logosu.png" group-title="DSTV | NEWS", TRT World
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1603686&extension=ts&play_token=I2SCCuR5y7
 
-#EXTINF:0.1tvg-id="" tvg-name="Skynews" tvg-logo="https://1000logos.net/wp-content/uploads/2020/10/Sky-News-Logo-1536x864.png" group-title="DSTV | NEWS", Sky News
+#EXTINF:0.1tvg-id="" tvg-name="Skynews" tvg-logo="https://images.contentstack.io/v3/assets/blt4b099fa9cc3801a6/bltfc038b1908f8b351/Sky-news-primary-rgb.png" group-title="DSTV | NEWS", Sky News
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=30504&extension=ts&play_token=I2SCCuR5y7
 
 
@@ -441,11 +441,11 @@ http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=156021&ex
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=156004&extension=ts&play_token=I2SCCuR5y7
 
 
-#EXTINF:0.1tvg-id="" tvg-name="star movies" tvg-logo="https://adgully.com/img/400/66643_star-movies-1.png.jpg" group-title="PAKISTAN | ENTERTAINMENT",Star Movies
+#EXTINF:0.1tvg-id="" tvg-name="star movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="PAKISTAN | ENTERTAINMENT",Star Movies
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1116488&extension=ts&play_token=I2SCCuR5y7
 
 
-#EXTINF:0.1tvg-id="" tvg-name="star movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn8dAiF0Iax7lcUY_PvT9NNmTCVzCjJih5EiQKbCMcVw&s=10" group-title="PAKISTAN | ENTERTAINMENT",Star Movies Select
+#EXTINF:0.1tvg-id="" tvg-name="star movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png" group-title="PAKISTAN | ENTERTAINMENT",Star Movies Select
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=155729&extension=ts&play_token=I2SCCuR5y7
 
 
