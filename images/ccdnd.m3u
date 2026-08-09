@@ -551,7 +551,7 @@ http://tv.indigotv.me:80/live.ts?channelId=256&deviceMac=00:1A:79:a5:d3:11
 #EXTINF:0.1tvg-id="" tvg-name="PK: Discover Pakistan" tvg-logo="http://ujm.from-in.com/panel/imageicon/3de2df5.png" group-title="PAKISTAN | ENTERTAINMENT",PK: Discover Pakistan
 http://tv.indigotv.me:80/live.ts?channelId=33167&deviceMac=00:1A:79:a5:d3:11
 
-#EXTINF:0.1tvg-id="discoveryhd.in" tvg-name="IND: Discovery Hindi "http://51.158.145.100/picons/logos/NETHERLANDNEW/DISCOVERY.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery
+#EXTINF:0.1tvg-id="discoveryhd.in" tvg-name="IND: Discovery Hindi" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/DISCOVERY.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery
 http://tv.indigotv.me:80/live.ts?channelId=4223&deviceMac=00:1A:79:a5:d3:11
 
 #EXTINF:0.1tvg-id="" tvg-name="IND: Discovery Science" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/DISCOVERYSCIENCE.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Science
