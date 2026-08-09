@@ -138,6 +138,7 @@ http://tv.indigotv.me:80/live.ts?channelId=402&deviceMac=00:1A:79:a5:d3:11
 
 #EXTINF:0.1tvg-id="" tvg-name="PK: KTN News" tvg-logo="https://www.nicepng.com/png/detail/472-4725557_tv-channel-logos-ktn-news.png" group-title="PAKISTAN | NEWS",PK: KTN News
 http://tv.indigotv.me:80/live.ts?channelId=22757&deviceMac=00:1A:79:a5:d3:11
+
 #EXTINF:0.1tvg-id="" tvg-name="PK: Roze News" tvg-logo="http://ujm.from-in.com/panel/imageicon/Roze%20News.png" group-title="PAKISTAN | NEWS",PK: Roze News
 http://tv.indigotv.me:80/live.ts?channelId=36262&deviceMac=00:1A:79:a5:d3:11
 #EXTINF:0.1tvg-id="" tvg-name="PK: Sindh News" tvg-logo="http://ujm.from-in.com/imageicon/1a39006.png" group-title="PAKISTAN | NEWS",PK: Sindh News
@@ -190,7 +191,7 @@ https://live-hls-web-aje-gcp.thehlive.com/AJE/02.m3u8
 #EXTINF:0.1tvg-id="" tvg-name="IN: Al Jazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TRT_World_logosu.png" group-title="DSTV | NEWS", TRT World
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1603686&extension=ts&play_token=I2SCCuR5y7
 
-#EXTINF:0.1tvg-id="" tvg-name="Skynews" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbEcTC5pyFCmCwnGeRAsxAMr8bjIhTUZvAsgA3tsDtbPvLUxFKc-1H9xnfUmoAcVIudQ&usqp=CAU" group-title="DSTV | NEWS", Sky News
+#EXTINF:0.1tvg-id="" tvg-name="Skynews" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYNEWS.png" group-title="DSTV | NEWS", Sky News
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=30504&extension=ts&play_token=I2SCCuR5y7
 
 
@@ -453,16 +454,20 @@ http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=155729&ex
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1920197&extension=ts&play_token=I2SCCuR5y7
 
 
-#EXTINF:-1 tvg-id="483" tvg-name="UK: Sky Cinema Premiere" tvg-logo="https://media.info/l/o/1/1438.1771976269.png" group-title="UNITED KINGDOM",UK: Sky Cinema Premiere
+#EXTINF:-1 tvg-id="483" tvg-name="UK: Sky Cinema Premiere" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMAPREMIERE.png" group-title="UNITED KINGDOM",UK: Sky Cinema Premiere
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=30517&extension=ts&play_token=I2SCCuR5y7
 
 
-#EXTINF:-1 tvg-id="483" tvg-name="UK: Sky Cinema Premiere" tvg-logo="https://media.info/l/o/1/1438.1771976269.png" group-title="UNITED KINGDOM",UK: Sky Cinema Thriller
+#EXTINF:-1 tvg-id="483" tvg-name="UK: Sky Cinema Premiere" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMATHRILLER.png" group-title="UNITED KINGDOM",UK: Sky Cinema Thriller
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1458787&extension=ts&play_token=I2SCCuR5y7
 
 
-#EXTINF:-1 tvg-id="483" tvg-name="UK: Sky Cinema Premiere" tvg-logo="https://media.info/l/o/1/1438.1771976269.png" group-title="UNITED KINGDOM",UK: Sky Cinema Hits
+#EXTINF:-1 tvg-id="483" tvg-name="UK: Sky Cinema Premiere" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMAHITS.png" group-title="UNITED KINGDOM",UK: Sky Cinema Hits
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1458790&extension=ts&play_token=I2SCCuR5y7
+
+
+#EXTINF:-1 tvg-id="483" tvg-name="UK: Sky Cinema Premiere" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMAACTION.png" group-title="UNITED KINGDOM",UK: Sky Cinema Action
+http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=30517&extension=ts&play_token=I2SCCuR5y7
 
 
 
@@ -488,19 +493,19 @@ http://tv.indigotv.me:80/live.ts?channelId=281&deviceMac=00:1A:79:a5:d3:11
 #EXTINF:0.1tvg-id="" tvg-name="star sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/STAR_SPORTS_1_HD_HINDI.png/960px-STAR_SPORTS_1_HD_HINDI.png" group-title="CRICKET", Star sports 1
 http://tv.indigotv.me:80/live.ts?channelId=295&deviceMac=00:1A:79:a5:d3:11
 
-#EXTINF:-1. tvg-id="TNT.Sports.1.uk" tvg-name="" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/06/TNT-Sports-Logo-Stacked.png.webp" ,TNT Sports 1
+#EXTINF:-1. tvg-id="TNT.Sports.1.uk" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS1.png" ,TNT Sports 1
 http://tv.indigotv.me:80/live.ts?channelId=267&deviceMac=00:1A:79:a5:d3:11
 
 
-#EXTINF:-1. tvg-id="TNTSports2.HD.uk" tvg-name="" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/06/TNT-Sports-Logo-Stacked.png.webp",TNT Sports 2
+#EXTINF:-1. tvg-id="TNTSports2.HD.uk" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS2.png",TNT Sports 2
 http://tv.indigotv.me:80/live.ts?channelId=268&deviceMac=00:1A:79:a5:d3:11
 
 
-#EXTINF:-1. tvg-id="TNT.Sports.3.uk" tvg-name="" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/06/TNT-Sports-Logo-Stacked.png.webp" ,TNT Sports 3
+#EXTINF:-1. tvg-id="TNT.Sports.3.uk" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS3.png" ,TNT Sports 3
 http://tv.indigotv.me:80/live.ts?channelId=269&deviceMac=00:1A:79:a5:d3:11
 
 
-#EXTINF:-1. tvg-id="TNT.Sports.4.uk" tvg-name="" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/06/TNT-Sports-Logo-Stacked.png.webp" ,TNT Sports 4
+#EXTINF:-1. tvg-id="TNT.Sports.4.uk" tvg-name="" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS4.png" ,TNT Sports 4
 http://tv.indigotv.me:80/live.ts?channelId=270&deviceMac=00:1A:79:a5:d3:11
 
 
@@ -558,7 +563,7 @@ http://tv.indigotv.me:80/live.ts?channelId=125057&deviceMac=00:1A:79:a5:d3:11
 #EXTINF:0.1tvg-id="0" tvg-name="Af | DSTV: National Geographic WILD HD*" tvg-logo="https://i.pinimg.com/564x/37/b7/ab/37b7abb18ff109f9ebdd31f7b0f114fe.jpg" group-title="DSTV | DOCUMENTARY",Af | DSTV: National Geographic WILD HD*
 http://tv.indigotv.me:80/live.ts?channelId=177&deviceMac=00:1A:79:a5:d3:11
 
-#EXTINF:0.1tvg-id="" tvg-name="IN: Animal Planet" tvg-logo="https://images.seeklogo.com/logo-png/61/1/animal-planet-logo-png_seeklogo-616978.png" group-title="INDIAN ALL",IN: Animal Planet
+#EXTINF:0.1tvg-id="" tvg-name="IN: Animal Planet" tvg-logo="http://51.158.145.100/picons/logos/logos/154767.png" group-title="INDIAN ALL",IN: Animal Planet
 http://tv.indigotv.me:80/live.ts?channelId=44637&deviceMac=00:1A:79:a5:d3:11
 
 #EXTINF:0.1tvg-id="" tvg-name="Sony BBC Ear (4K)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/RnzI34c.png" group-title="INDIAN | 4K ULTRA HD",Sony BBC Ear (4K)
