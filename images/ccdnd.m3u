@@ -469,6 +469,16 @@ http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1458790&e
 #EXTINF:-1 tvg-id="483" tvg-name="UK: Sky Cinema Premiere" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMAACTION.png" group-title="UNITED KINGDOM",UK: Sky Cinema Action
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=30517&extension=ts&play_token=I2SCCuR5y7
 
+#EXTINF:-1 tvg-id="483" tvg-name="ACTION MAX HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45618.png" group-title="UNITED KINGDOM",ACTION MAX HD
+http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=45618&extension=ts&play_token=I2SCCuR5y7
+
+#EXTINF:-1 tvg-id="483" tvg-name="SHOWTIME HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45503.png" group-title="UNITED KINGDOM",SHOWTIME HD
+http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=45503&extension=ts&play_token=I2SCCuR5y7
+
+#EXTINF:-1 tvg-id="483" tvg-name="SHOWTIME EXTREME HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45503.png" group-title="UNITED KINGDOM",SHOWTIME EXTREME HD
+http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=91887&extension=ts&play_token=I2SCCuR5y7
+
+
 
 
 #EXTINF:0.1tvg-id="skysportscricket.uk" tvg-name="PK: TEN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png" group-title="CRICKET",PK: TEN SPORTS
