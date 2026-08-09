@@ -175,10 +175,10 @@ http://tv.indigotv.me:80/live.ts?channelId=32496&deviceMac=00:1A:79:a5:d3:11
 
 
 
-#EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://media.info/l/o/1/1043.1406401403.png" group-title="DSTV | NEWS",Af | BBC News
+#EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BBCNEWS.png" group-title="DSTV | NEWS",Af | BBC News
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=75865&extension=ts&play_token=I2SCCuR5y7
 
-#EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://media.info/l/o/1/1045.1565613151.png" group-title="DSTV | NEWS",Af | BBC World News
+#EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="http://51.158.145.100/picons/logos/PHILIPPINES/BBCWORLDNEWS.png" group-title="DSTV | NEWS",Af | BBC World News
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=75865&extension=ts&play_token=I2SCCuR5y7
 
 
