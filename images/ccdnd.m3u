@@ -513,11 +513,11 @@ http://tv.indigotv.me:80/live.ts?channelId=270&deviceMac=00:1A:79:a5:d3:11
 
 
 
-#EXTINF:0.1tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="INDIAN | KIDS Cartoon",MiniMax
+#EXTINF:0.1tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="https://i.ibb.co/RkQvxh9N/IMG-0156.jpg" group-title="INDIAN | KIDS Cartoon",SCOOBY DOO
 http://filex.me:8080/live/mohsinbashir/002784/966902.ts
 
 
-#EXTINF:0.1tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="INDIAN | KIDS Cartoon",MiniMax 1
+#EXTINF:0.1tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0b663cb2a9792e2c035fb49a0eda6e36.png" group-title="INDIAN | KIDS Cartoon",TOM AND Jerry
 http://filex.me:8080/live/mohsinbashir/002784/966923.ts
 
 #EXTINF:0.1tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/KidsZonelogo-sm.png" group-title="INDIAN | KIDS Cartoon",Kids zone
@@ -551,16 +551,16 @@ http://tv.indigotv.me:80/live.ts?channelId=256&deviceMac=00:1A:79:a5:d3:11
 #EXTINF:0.1tvg-id="" tvg-name="PK: Discover Pakistan" tvg-logo="http://ujm.from-in.com/panel/imageicon/3de2df5.png" group-title="PAKISTAN | ENTERTAINMENT",PK: Discover Pakistan
 http://tv.indigotv.me:80/live.ts?channelId=33167&deviceMac=00:1A:79:a5:d3:11
 
-#EXTINF:0.1tvg-id="discoveryhd.in" tvg-name="IND: Discovery Hindi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery
+#EXTINF:0.1tvg-id="discoveryhd.in" tvg-name="IND: Discovery Hindi" http://51.158.145.100/picons/logos/NETHERLANDNEW/DISCOVERY.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery
 http://tv.indigotv.me:80/live.ts?channelId=4223&deviceMac=00:1A:79:a5:d3:11
 
-#EXTINF:0.1tvg-id="" tvg-name="IND: Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/960px-Discovery_Science_2017_Logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Science
+#EXTINF:0.1tvg-id="" tvg-name="IND: Discovery Science" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/DISCOVERYSCIENCE.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Science
 http://tv.indigotv.me:80/live.ts?channelId=25891&deviceMac=00:1A:79:a5:d3:11
 
-#EXTINF:0.1tvg-id="0" tvg-name="Af | DSTV: National Geographic HD *" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjIg2pKmm1yRKRdVSQg9tckQP_3hU59Ma_mQ&s" group-title="DSTV | DOCUMENTARY",Af | DSTV: National Geographic HD *
+#EXTINF:0.1tvg-id="0" tvg-name="Af | DSTV: National Geographic HD *" tvg-logo="http://103.176.90.92/images/1696918.png" group-title="DSTV | DOCUMENTARY",Af | DSTV: National Geographic HD *
 http://tv.indigotv.me:80/live.ts?channelId=125057&deviceMac=00:1A:79:a5:d3:11
 
-#EXTINF:0.1tvg-id="0" tvg-name="Af | DSTV: National Geographic WILD HD*" tvg-logo="https://i.pinimg.com/564x/37/b7/ab/37b7abb18ff109f9ebdd31f7b0f114fe.jpg" group-title="DSTV | DOCUMENTARY",Af | DSTV: National Geographic WILD HD*
+#EXTINF:0.1tvg-id="0" tvg-name="Af | DSTV: National Geographic WILD HD*" tvg-logo="http://103.176.90.92/images/1696917.png" group-title="DSTV | DOCUMENTARY",Af | DSTV: National Geographic WILD HD*
 http://tv.indigotv.me:80/live.ts?channelId=177&deviceMac=00:1A:79:a5:d3:11
 
 #EXTINF:0.1tvg-id="" tvg-name="IN: Animal Planet" tvg-logo="http://51.158.145.100/picons/logos/logos/154767.png" group-title="INDIAN ALL",IN: Animal Planet
