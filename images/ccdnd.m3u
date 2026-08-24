@@ -41,7 +41,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=414&deviceMac=00:1A:79:0B:3E:D7&uid=6
 
 
 #EXTINF:0.1tvg-id="geonews.pk" tvg-name="PK | GEO NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/GEO_News_logo_in_Urdu.png" group-title="PAKISTAN | NEWS",PK | GEO NEWS HD
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=281119&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=281119&extension=ts&play_token=I2SCCuR5y7
 
 #EXTINF:0.1tvg-id="arynews.eg" tvg-name="PK | ARY News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Arynews.jpg" group-title="PAKISTAN | NEWS",PK | ARY News HD
 http://tv.cloudcdn.me:80/live.ts?channelId=386&deviceMac=00:1A:79:0B:3E:D7&uid=6769
@@ -176,10 +176,10 @@ http://tv.cloudcdn.me:80/live.ts?channelId=32496&deviceMac=00:1A:79:0B:3E:D7&uid
 
 
 #EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BBCNEWS.png" group-title="DSTV | NEWS",Af | BBC News
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=75865&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=75865&extension=ts&play_token=I2SCCuR5y7
 
 #EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="http://51.158.145.100/picons/logos/PHILIPPINES/BBCWORLDNEWS.png" group-title="DSTV | NEWS",Af | BBC World News
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=75865&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=75865&extension=ts&play_token=I2SCCuR5y7
 
 
 
@@ -189,31 +189,31 @@ https://live-hls-web-aje-gcp.thehlive.com/AJE/02.m3u8
 
 
 #EXTINF:0.1tvg-id="" tvg-name="IN: Al Jazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TRT_World_logosu.png" group-title="DSTV | NEWS", TRT World
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1603686&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1603686&extension=ts&play_token=I2SCCuR5y7
 
 #EXTINF:0.1tvg-id="" tvg-name="Skynews" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYNEWS.png" group-title="DSTV | NEWS", Sky News
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=30504&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=30504&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:0.1tvg-id="dunyanews.pk" tvg-name="IN: Al Jazeera" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" group-title="DSTV | NEWS", Af | Al Jazeera 1
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1698649&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1698649&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:0.1tvg-id="" tvg-name="CNN" tvg-logo="http://138.199.27.237:8080/PORTUGAL/CNN.png" group-title="DSTV | NEWS", CNN
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=459632&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=459632&extension=ts&play_token=I2SCCuR5y7
 
 
 
 #EXTINF:0.1tvg-id="" tvg-name="abcnewsau" tvg-logo="https://media.info/l/o/6/6058.1747114438.png" group-title="DSTV | NEWS", Abc News Mellbourne
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1130813&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1130813&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:0.1tvg-id="" tvg-name="euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Euronews_Logo_2025.svg/960px-Euronews_Logo_2025.svg.png" group-title="DSTV | NEWS", Euro News
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1920888&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1920888&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:0.1tvg-id="" tvg-name="france24" tvg-logo="http://51.158.145.100/picons/logos/france/1972556.png" group-title="DSTV | NEWS", France 24
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=149653&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=149653&extension=ts&play_token=I2SCCuR5y7
 
 
 
@@ -351,28 +351,28 @@ http://tv.cloudcdn.me:80/live.ts?channelId=57490&deviceMac=00:1A:79:0B:3E:D7&uid
 
 
 #EXTINF:0.1tvg-id="" tvg-name="Sony Sab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/SONY_SAB_SD.png" group-title="PAKISTAN | ENTERTAINMENT",Sony Sab
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=280764&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=280764&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:-1 tvg-id="183" tvg-name="IN: Sony Max 2 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Sony-max-2-in.png" group-title="INDIAN",IN: Sony Max 2 FHD
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=156118&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=156118&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:-1 tvg-id="184" tvg-name="IN: Sony Max FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Sony_Max_HD_2022.png" group-title="INDIAN",IN: Sony Max FHD
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=156106&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=156106&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:-1 tvg-id="188" tvg-name="IN: Sony Pal FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/SONY_PAL_LOGO.png" group-title="INDIAN",IN: Sony Pal FHD
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=156101&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=156101&extension=ts&play_token=I2SCCuR5y7
 
 
 
 #EXTINF:-1 tvg-id="193" tvg-name="IN: Sony TV FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png" group-title="INDIAN",IN: Sony TV FHD
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=156104&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=156104&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:-1 tvg-id="187" tvg-name="IN: Sony Wah FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Sony_WAH.png" group-title="INDIAN",IN: Sony Wah FHD
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=156039&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=156039&extension=ts&play_token=I2SCCuR5y7
 
 
 
@@ -380,103 +380,103 @@ http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=156039&ex
 
 
 #EXTINF:-1 tvg-id="49859" tvg-name="IN: & Flix FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" group-title="INDIAN",IN: & Flix FHD
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1532831&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1532831&extension=ts&play_token=I2SCCuR5y7
 
 #EXTINF:-1 tvg-id="139" tvg-name="IN: & Pictures FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNIl4ClIXbtGxUBkT_rdNvIieOLgmIJwjPPw&s" group-title="INDIAN",IN: & Pictures FHD
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=280744&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=280744&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:-1 tvg-id="170" tvg-name="IN: & Privé FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/%26Priv%C3%A9_HD_Logo_2025.png" group-title="INDIAN",IN: & Privé FHD
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=155746&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=155746&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:-1 tvg-id="152" tvg-name="IN: B4U Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png" group-title="INDIAN",IN: B4U Movies
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=155987&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=155987&extension=ts&play_token=I2SCCuR5y7
 
 
 
 #EXTINF:-1 tvg-id="62412" tvg-name="IN: Colors Cineplex BollywoodhD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Colors_Cineplex_Bollywood.jpg" group-title="INDIAN",IN: Colors Cineplex BollywoodhD
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=156003&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=156003&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:-1 tvg-id="470" tvg-name="IN: Colors Cineplex FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Tata_Sky_Logo.jpg" group-title="INDIAN",IN: TataPlay Bollywood Premiere
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=156028&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=156028&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:-1 tvg-id="507562" tvg-name="Bollywood 1 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="BOLLYWOOD ➾ 24/7",CM: Bollywood 1 FHD
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=636182&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=636182&extension=ts&play_token=I2SCCuR5y7
 
 #EXTINF:-1 tvg-id="507562" tvg-name="Bollywood 2 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="BOLLYWOOD ➾ 24/7",CM: Bollywood 2 FHD
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=636181&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=636181&extension=ts&play_token=I2SCCuR5y7
 
 #EXTINF:-1 tvg-id="507562" tvg-name="Bollywood 3 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="BOLLYWOOD ➾ 24/7",CM: Bollywood 3 FHD
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=636174&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=636174&extension=ts&play_token=I2SCCuR5y7
 
 #EXTINF:-1 tvg-id="507562" tvg-name="Bollywood 4 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="BOLLYWOOD ➾ 24/7",CM: Bollywood 4 FHD
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=636154&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=636154&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:-1 tvg-id="196" tvg-name="IN: Star Gold FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Star_Gold_HD_2011.png" group-title="INDIAN",IN: Star Gold FHD
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=155969&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=155969&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:-1 tvg-id="207" tvg-name="IN: Zee Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="INDIAN",IN: Zee Cinema
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=155975&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=155975&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:-1 tvg-id="440429" tvg-name="HINDI: MINIPLEX HD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/miniplex.png" group-title="ASIA| HINDI",HINDI: MINIPLEX HD
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=156020&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=156020&extension=ts&play_token=I2SCCuR5y7
 
 
 
 
 #EXTINF:-1 tvg-id="440435" tvg-name="HINDI: MOVIES NOW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="ASIA| HINDI",HINDI: MOVIES NOW HD
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=156022&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=156022&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:-1 tvg-id="440432" tvg-name="HINDI: MNX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" group-title="ASIA| HINDI",HINDI: MNX HD
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=156021&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=156021&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:-1 tvg-id="189" tvg-name="IN: Sony Pix FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/SONY_PIX_SD.png" group-title="INDIAN",IN: Sony Pix FHD
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=156004&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=156004&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:0.1tvg-id="" tvg-name="star movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="PAKISTAN | ENTERTAINMENT",Star Movies
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1116488&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1116488&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:0.1tvg-id="" tvg-name="star movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png" group-title="PAKISTAN | ENTERTAINMENT",Star Movies Select
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=155729&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=155729&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:0.1tvg-id="" tvg-name="Hbo" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/e88f2f1db154d1e7555f9cbd99f38fcc.png" group-title="PAKISTAN | ENTERTAINMENT",HBO
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1920197&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1920197&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:-1 tvg-id="483" tvg-name="UK: Sky Cinema Premiere" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMAPREMIERE.png" group-title="UNITED KINGDOM",UK: Sky Cinema Premiere
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=30512&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=30512&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:-1 tvg-id="483" tvg-name="UK: Sky Cinema Premiere" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMATHRILLER.png" group-title="UNITED KINGDOM",UK: Sky Cinema Thriller
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1458787&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1458787&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:-1 tvg-id="483" tvg-name="UK: Sky Cinema Premiere" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMAHITS.png" group-title="UNITED KINGDOM",UK: Sky Cinema Hits
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1458790&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1458790&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:-1 tvg-id="483" tvg-name="UK: Sky Cinema Premiere" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMAACTION.png" group-title="UNITED KINGDOM",UK: Sky Cinema Action
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=30517&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=30517&extension=ts&play_token=I2SCCuR5y7
 
 #EXTINF:-1 tvg-id="483" tvg-name="ACTION MAX HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45618.png" group-title="UNITED KINGDOM",ACTION MAX HD
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=45618&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=45618&extension=ts&play_token=I2SCCuR5y7
 
 #EXTINF:-1 tvg-id="483" tvg-name="SHOWTIME HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45503.png" group-title="UNITED KINGDOM",SHOWTIME HD
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=45503&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=45503&extension=ts&play_token=I2SCCuR5y7
 
 #EXTINF:-1 tvg-id="483" tvg-name="SHOWTIME EXTREME HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45503.png" group-title="UNITED KINGDOM",SHOWTIME EXTREME HD
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=91887&extension=ts&play_token=I2SCCuR5y7
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=91887&extension=ts&play_token=I2SCCuR5y7
 
 
 
