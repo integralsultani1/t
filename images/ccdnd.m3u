@@ -469,14 +469,45 @@ http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1458790&exte
 #EXTINF:-1 tvg-id="483" tvg-name="UK: Sky Cinema Premiere" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMAACTION.png" group-title="UNITED KINGDOM",UK: Sky Cinema Action
 http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=30517&extension=ts&play_token=I2SCCuR5y7
 
-#EXTINF:-1 tvg-id="483" tvg-name="ACTION MAX HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45618.png" group-title="UNITED KINGDOM",ACTION MAX HD
-http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=45618&extension=ts&play_token=I2SCCuR5y7
 
-#EXTINF:-1 tvg-id="483" tvg-name="SHOWTIME HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45503.png" group-title="UNITED KINGDOM",SHOWTIME HD
-http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=45503&extension=ts&play_token=I2SCCuR5y7
 
-#EXTINF:-1 tvg-id="483" tvg-name="SHOWTIME EXTREME HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45503.png" group-title="UNITED KINGDOM",SHOWTIME EXTREME HD
-http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=91887&extension=ts&play_token=I2SCCuR5y7
+#EXTINF:-1 tvg-id="1916904" tvg-name="EN| ONEPLAY PREMIERE ᴴᴰ" tvg-logo="https://iili.io/JV0y8yQ.md.png" group-title="24/7 ONEPLAY",EN| ONEPLAY PREMIERE ᴴᴰ
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1916904&extension=ts&play_token=B7ySYnh3Hp
+
+#EXTINF:-1 tvg-id="1916903" tvg-name="EN| ONEPLAY EXTRA ᴴᴰ" tvg-logo="https://iili.io/JV0yi6g.md.png" group-title="24/7 ONEPLAY",EN| ONEPLAY EXTRA ᴴᴰ
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1916903&extension=ts&play_token=8dR7uZPDpR
+ 
+#EXTINF:-1 tvg-id="1916902" tvg-name="EN| ONEPLAY BESTOFF ᴴᴰ" tvg-logo="https://iili.io/JV19FSf.md.png" group-title="24/7 ONEPLAY",EN| ONEPLAY BESTOFF ᴴᴰ
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1916902&extension=ts&play_token=4DNEH0DgWw
+ 
+#EXTINF:-1 tvg-id="1916901" tvg-name="EN| ONEPLAY ACTION ᴴᴰ" tvg-logo="https://iili.io/JV19ASj.md.png" group-title="24/7 ONEPLAY",EN| ONEPLAY ACTION ᴴᴰ
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1916901&extension=ts&play_token=vR6qHq3kPA
+ 
+#EXTINF:-1 tvg-id="1916900" tvg-name="EN| ONEPLAY ACTION+1 ᴴᴰ" tvg-logo="https://iili.io/JV19ASj.md.png" group-title="24/7 ONEPLAY",EN| ONEPLAY ACTION+1 ᴴᴰ
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1916900&extension=ts&play_token=FF22d8Q3SD
+ 
+ 
+#EXTINF:-1 tvg-id="1916898" tvg-name="EN| ONEPLAY THRILLER ᴴᴰ" tvg-logo="https://iili.io/JV198fn.md.png" group-title="24/7 ONEPLAY",EN| ONEPLAY THRILLER ᴴᴰ
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1916898&extension=ts&play_token=C7pcAtyzVb
+ 
+
+ 
+#EXTINF:-1 tvg-id="1916896" tvg-name="EN| ONEPLAY WARZONE ᴴᴰ" tvg-logo="https://iili.io/JV19sxS.md.png" group-title="24/7 ONEPLAY",EN| ONEPLAY WARZONE ᴴᴰ
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1916896&extension=ts&play_token=BHvpPVwxLY
+ 
+ 
+#EXTINF:-1 tvg-id="1916893" tvg-name="EN| ONEPLAY FANTASY ᴴᴰ" tvg-logo="https://iili.io/JV1HoeR.md.png" group-title="24/7 ONEPLAY",EN| ONEPLAY FANTASY ᴴᴰ
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1916893&extension=ts&play_token=sBeBPJWIRj
+ 
+#EXTINF:-1 tvg-id="1916892" tvg-name="EN| ONEPLAY WESTERN ᴴᴰ" tvg-logo="https://iili.io/JV1HML7.md.png" group-title="24/7 ONEPLAY",EN| ONEPLAY WESTERN ᴴᴰ
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1916892&extension=ts&play_token=PqrOz6vV1C
+ 
+#EXTINF:-1 tvg-id="1916891" tvg-name="EN| ONEPLAY 90s ᴴᴰ" tvg-logo="https://iili.io/JV1HemQ.md.png" group-title="24/7 ONEPLAY",EN| ONEPLAY 90s ᴴᴰ
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1916891&extension=ts&play_token=spGb3U2qAt
+ 
+#EXTINF:-1 tvg-id="1916890" tvg-name="EN| ONEPLAY CLASSICS ᴴᴰ" tvg-logo="https://iili.io/JV1HgB1.md.png" group-title="24/7 ONEPLAY",EN| ONEPLAY CLASSICS ᴴᴰ
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1916890&extension=ts&play_token=i5pUIsrf6I
+
 
 
 
@@ -524,35 +555,34 @@ http://tv.cloudcdn.me:80/live.ts?channelId=270&deviceMac=00:1A:79:0B:3E:D7&uid=6
 
 
 #EXTINF:0.1tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="https://i.ibb.co/RkQvxh9N/IMG-0156.jpg" group-title="INDIAN | KIDS Cartoon",SCOOBY DOO
-http://filex.me:8080/live/mohsinbashir/002784/966902.ts
-
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1430229&extension=ts&play_token=I2SCCuR5y7
 
 #EXTINF:0.1tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0b663cb2a9792e2c035fb49a0eda6e36.png" group-title="INDIAN | KIDS Cartoon",TOM AND Jerry
-http://filex.me:8080/live/mohsinbashir/002784/966923.ts
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1430176&extension=ts&play_token=5A6ZIIWniK
+
 
 #EXTINF:0.1tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/KidsZonelogo-sm.png" group-title="INDIAN | KIDS Cartoon",Kids zone
 http://tv.cloudcdn.me:80/live.ts?channelId=19754&deviceMac=00:1A:79:0B:3E:D7&uid=6769
 
 #EXTINF:0.1tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="INDIAN | KIDS Cartoon",IN: Cartoon Network
-http://filex.me:8080/live/mohsinbashir/002784/5.ts
-
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=280748&extension=ts&play_token=ZFqeDcHtql
 
 
 #EXTINF:0.1tvg-id="cartoonnetworkhd.in1" tvg-name="IN: Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="INDIAN | KIDS Cartoon",IN: Cartoon Network 1
-http://filex.me:8080/live/mohsinbashir/002784/291153.ts
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1942552&extension=ts&play_token=s8jWpuFQCz
+
 
 #EXTINF:0.1tvg-id="nick.in" tvg-name="IN: Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png" group-title="INDIAN | KIDS Cartoon",IN: Nick
-http://filex.me:8080/live/mohsinbashir/002784/499707.ts
-
+http://103.176.90.140:80/play/live.php?mac=00:1A:79:BC:03:3B&stream=1540023&extension=ts&play_token=I2SCCuR5y7
 
 
 
 #EXTINF:0.1tvg-id="" tvg-name="24/7 MOTU PATLU 01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Motu_Patlu.Jpg" group-title="INDIAN | KIDS Cartoon",24/7 MOTU PATLU
 http://filex.me:8080/live/mohsinbashir/002784/957364.ts
 
-
 #EXTINF:0.1tvg-id="pogo.in" tvg-name="IN: Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png" group-title="INDIAN | KIDS Cartoon",IN: Pogo
 http://tv.cloudcdn.me:80/live.ts?channelId=256&deviceMac=00:1A:79:0B:3E:D7&uid=6769
+
 
 
 
