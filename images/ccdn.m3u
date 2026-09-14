@@ -534,6 +534,24 @@ http://tv.cloudcdn.me:80/live.ts?channelId=281&deviceMac=00:1A:79:0B:3E:D7&uid=6
 #EXTINF:0.1tvg-id="" tvg-name="star sports" tvg-logo="https://i.postimg.cc/BZFhny6D/starsport1.png" group-title="CRICKET", Star sports 1
 http://tv.cloudcdn.me:80/live.ts?channelId=295&deviceMac=00:1A:79:0B:3E:D7&uid=6769
 
+#EXTINF:0.1tvg-id="" tvg-name="star sports" tvg-logo="https://i.postimg.cc/zftMHW5B/starsports2.png" group-title="CRICKET", Star sports 2
+http://tv.cloudcdn.me:80/live.ts?channelId=132883&deviceMac=00:1A:79:0B:3E:D7&uid=6769
+
+#EXTINF:-1 tvg-id="289" tvg-name="SP: Sony Sports 1 FHD" tvg-logo="https://i.postimg.cc/g0VFwrjV/4fa225b.png" group-title="SPORTS",SP: Sony Sports 1 FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=289&deviceMac=00:1A:79:0B:3E:D7&uid=6769
+
+#EXTINF:-1 tvg-id="290" tvg-name="SP: Sony Sports 2 FHD" tvg-logo="https://i.postimg.cc/1tyxDPVV/e27626a.png" group-title="SPORTS",SP: Sony Sports 2 FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=290&deviceMac=00:1A:79:0B:3E:D7&uid=6769
+
+#EXTINF:-1 tvg-id="291" tvg-name="SP: Sony Sports 3 FHD" tvg-logo="https://i.postimg.cc/26CpnmLW/3a556ed.png" group-title="SPORTS",SP: Sony Sports 3 FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=291&deviceMac=00:1A:79:0B:3E:D7&uid=6769
+
+#EXTINF:-1 tvg-id="105349" tvg-name="SP: Sony Sports 4 FHD" tvg-logo="https://i.postimg.cc/tT90Fynz/eb923d9.png" group-title="SPORTS",SP: Sony Sports 4 FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=105349&deviceMac=00:1A:79:0B:3E:D7&uid=6769
+
+#EXTINF:-1 tvg-id="105350" tvg-name="SP: Sony Sports 5 FHD" tvg-logo="https://i.postimg.cc/XJnM93y0/9327ac5.png" group-title="SPORTS",SP: Sony Sports 5 FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=105350&deviceMac=00:1A:79:0B:3E:D7&uid=6769
+
 #EXTINF:-1. tvg-id="TNT.Sports.1.uk" tvg-name="" tvg-logo="https://i.postimg.cc/zBqT3y3N/TNT-Sports-1-Stacked-White.png" ,TNT Sports 1
 http://tv.cloudcdn.me:80/live.ts?channelId=267&deviceMac=00:1A:79:0B:3E:D7&uid=6769
 
