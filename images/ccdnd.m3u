@@ -41,7 +41,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=414&deviceMac=00:1A:79:0B:3E:D7&uid=6
 
 
 #EXTINF:0.1tvg-id="geonews.pk" tvg-name="PK | GEO NEWS HD" tvg-logo="https://i.postimg.cc/Jhsjkf5S/GEO-News-logo-in-Urdu.png" group-title="PAKISTAN | NEWS",PK | GEO NEWS HD
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=281119&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=281119&extension=ts&play_token=I2SCCuR5y7
 
 #EXTINF:0.1tvg-id="arynews.eg" tvg-name="PK | ARY News HD" tvg-logo="https://i.postimg.cc/Xvr9CRgM/Arynews.jpg" group-title="PAKISTAN | NEWS",PK | ARY News HD
 http://tv.cloudcdn.me:80/live.ts?channelId=386&deviceMac=00:1A:79:0B:3E:D7&uid=6769
@@ -176,10 +176,10 @@ http://tv.cloudcdn.me:80/live.ts?channelId=32496&deviceMac=00:1A:79:0B:3E:D7&uid
 
 
 #EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://i.postimg.cc/50DbqGdJ/bbcn.png" group-title="DSTV | NEWS",Af | BBC News
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=75865&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=75865&extension=ts&play_token=I2SCCuR5y7
 
-#EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://i.postimg.cc/K8jpxY3s/bbcworldnew.png" group-title="DSTV | NEWS",Af | BBC World News
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=75865&extension=ts&play_token=I2SCCuR5y7
+#EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://i.postimg.cc/HWhdspw1/bbcworld.png" group-title="DSTV | NEWS",Af | BBC World News
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=75865&extension=ts&play_token=I2SCCuR5y7
 
 
 
@@ -189,31 +189,53 @@ https://live-hls-web-aje-gcp.thehlive.com/AJE/02.m3u8
 
 
 #EXTINF:0.1tvg-id="" tvg-name="IN: Al Jazeera" tvg-logo="https://i.postimg.cc/28TWXkHg/TRT-World-logosu.png" group-title="DSTV | NEWS", TRT World
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=1603686&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=1603686&extension=ts&play_token=I2SCCuR5y7
 
 #EXTINF:0.1tvg-id="" tvg-name="Skynews" tvg-logo="https://i.postimg.cc/L5Q15vZ2/skynews.jpg" group-title="DSTV | NEWS", Sky News
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=30504&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=30504&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:0.1tvg-id="dunyanews.pk" tvg-name="IN: Al Jazeera" tvg-logo="https://i.postimg.cc/7YXzQHBK/aljazeera-uk.png" group-title="DSTV | NEWS", Af | Al Jazeera 1
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=1698649&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=1698649&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:0.1tvg-id="" tvg-name="CNN" tvg-logo="https://i.postimg.cc/QMxQSBkp/cnn.png" group-title="DSTV | NEWS", CNN
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=459632&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=459632&extension=ts&play_token=I2SCCuR5y7
 
 
 
 #EXTINF:0.1tvg-id="" tvg-name="abcnewsau" tvg-logo="https://i.postimg.cc/QxS7n84s/6058-1747114438.png" group-title="DSTV | NEWS", Abc News Mellbourne
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=1130813&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=1130813&extension=ts&play_token=I2SCCuR5y7
+
 
 
 #EXTINF:0.1tvg-id="" tvg-name="euronews" tvg-logo="https://i.postimg.cc/xTgmFfx9/Euronews.png" group-title="DSTV | NEWS", Euro News
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=1920888&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=1920888&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:0.1tvg-id="" tvg-name="france24" tvg-logo="https://i.postimg.cc/qB1n1BDj/france24.jpg" group-title="DSTV | NEWS", France 24
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=149653&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=149653&extension=ts&play_token=I2SCCuR5y7
+
+#EXTINF:0.1tvg-id="" tvg-name="RT News" tvg-logo="https://i.postimg.cc/mZV7w3kq/latest-cb-20180603181710.jpg" group-title="DSTV | NEWS", Russian Today
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=149648&extension=ts&play_token=I2SCCuR5y7
+
+#EXTINF:0.1tvg-id="" tvg-name="DW News" tvg-logo="https://i.postimg.cc/wvgqvGKt/DW-(TV)-Logo-2012-png-utm-source-commons-wikimedia.png" group-title="DSTV | NEWS", DW News
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=237963&extension=ts&play_token=I2SCCuR5y7
+
+#EXTINF:0.1tvg-id="" tvg-name="NHK World Japan" tvg-logo="https://i.postimg.cc/mDnzvj93/nhkworld.png" group-title="DSTV | NEWS", NHK World Japan
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=1838370&extension=ts&play_token=I2SCCuR5y7
+
+#EXTINF:0.1tvg-id="" tvg-name="Fox News" tvg-logo="https://i.postimg.cc/SKvxRsKj/latest-cb-20250114204200.jpg" group-title="DSTV | NEWS", Fox News
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=45573&extension=ts&play_token=I2SCCuR5y7
+
+#EXTINF:0.1tvg-id="" tvg-name="ABC News USA" tvg-logo="https://i.postimg.cc/5NCLMhnL/Omvv-KEJG-400x400.jpg" group-title="DSTV | NEWS", ABC News USA
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=45438&extension=ts&play_token=I2SCCuR5y7
+
+#EXTINF:0.1tvg-id="" tvg-name="CGTN" tvg-logo="https://i.postimg.cc/yYLdtvzz/CGTN.png" group-title="DSTV | NEWS", CGTN China
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=156413&extension=ts&play_token=I2SCCuR5y7
+
+
+
 
 
 
@@ -351,28 +373,28 @@ http://tv.cloudcdn.me:80/live.ts?channelId=57490&deviceMac=00:1A:79:0B:3E:D7&uid
 
 
 #EXTINF:0.1tvg-id="" tvg-name="Sony Sab" tvg-logo="https://i.postimg.cc/NjS5W5R4/SONY-SAB-SD.webp" group-title="PAKISTAN | ENTERTAINMENT",Sony Sab
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=280764&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=280764&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:-1 tvg-id="183" tvg-name="IN: Sony Max 2 FHD" tvg-logo="https://i.postimg.cc/Y0STHqHt/1000-cb-20221026151354.webp" group-title="INDIAN",IN: Sony Max 2 FHD
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=156118&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=156118&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:-1 tvg-id="184" tvg-name="IN: Sony Max FHD" tvg-logo="https://i.postimg.cc/Vv5ZhGqR/latest-cb-20221025030422.webp" group-title="INDIAN",IN: Sony Max FHD
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=156106&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=156106&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:-1 tvg-id="188" tvg-name="IN: Sony Pal FHD" tvg-logo="https://i.postimg.cc/BnkXdXx9/SONY-PAL-LOGO.webp" group-title="INDIAN",IN: Sony Pal FHD
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=156101&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=156101&extension=ts&play_token=I2SCCuR5y7
 
 
 
 #EXTINF:-1 tvg-id="193" tvg-name="IN: Sony TV FHD" tvg-logo="https://i.postimg.cc/pL4pgpDv/SET-LOGO-HD.webp" group-title="INDIAN",IN: Sony TV FHD
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=156104&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=156104&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:-1 tvg-id="187" tvg-name="IN: Sony Wah FHD" tvg-logo="https://i.postimg.cc/HkRVfVQp/Sony-WAH.webp" group-title="INDIAN",IN: Sony Wah FHD
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=156039&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=156039&extension=ts&play_token=I2SCCuR5y7
 
 
 
@@ -380,133 +402,133 @@ http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=156039&
 
 
 #EXTINF:-1 tvg-id="49859" tvg-name="IN: & Flix FHD" tvg-logo="https://i.postimg.cc/nLmCZpkf/flix-logo.png" group-title="INDIAN",IN: & Flix FHD
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=1532831&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=1532831&extension=ts&play_token=I2SCCuR5y7
 
 #EXTINF:-1 tvg-id="139" tvg-name="IN: & Pictures FHD" tvg-logo="https://i.postimg.cc/FHv8rZmP/Pictures-(2025).png" group-title="INDIAN",IN: & Pictures FHD
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=280744&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=280744&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:-1 tvg-id="170" tvg-name="IN: & Privé FHD" tvg-logo="https://i.postimg.cc/25WVmrwm/Prive-HD-Logo-2025.png" group-title="INDIAN",IN: & Privé FHD
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=155746&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=155746&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:-1 tvg-id="152" tvg-name="IN: B4U Movies" tvg-logo="https://i.postimg.cc/Xv5p348Y/B4U-MOVIES-2014.webp" group-title="INDIAN",IN: B4U Movies
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=155987&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=155987&extension=ts&play_token=I2SCCuR5y7
 
 
 
 #EXTINF:-1 tvg-id="62412" tvg-name="IN: Colors Cineplex BollywoodhD" tvg-logo="https://i.postimg.cc/zfhV58jh/Colors-Cineplex-Bollywood.webp" group-title="INDIAN",IN: Colors Cineplex BollywoodhD
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=156003&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=156003&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:-1 tvg-id="470" tvg-name="IN: Colors Cineplex FHD" tvg-logo="https://i.postimg.cc/fRVSw4z2/tataplaybp.png" group-title="INDIAN",IN: TataPlay Bollywood Premiere
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=156028&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=156028&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:-1 tvg-id="507562" tvg-name="Bollywood 1 FHD" tvg-logo="https://i.postimg.cc/9fpZ22Vw/cinemahindi.png" group-title="BOLLYWOOD ➾ 24/7",CM: Bollywood 1 FHD
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=636182&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=636182&extension=ts&play_token=I2SCCuR5y7
 
 #EXTINF:-1 tvg-id="507562" tvg-name="Bollywood 2 FHD" tvg-logo="https://i.postimg.cc/9fpZ22Vw/cinemahindi.png" group-title="BOLLYWOOD ➾ 24/7",CM: Bollywood 2 FHD
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=636181&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=636181&extension=ts&play_token=I2SCCuR5y7
 
 #EXTINF:-1 tvg-id="507562" tvg-name="Bollywood 3 FHD" tvg-logo="https://i.postimg.cc/9fpZ22Vw/cinemahindi.png" group-title="BOLLYWOOD ➾ 24/7",CM: Bollywood 3 FHD
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=636174&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=636174&extension=ts&play_token=I2SCCuR5y7
 
 #EXTINF:-1 tvg-id="507562" tvg-name="Bollywood 4 FHD" tvg-logo="https://i.postimg.cc/9fpZ22Vw/cinemahindi.png" group-title="BOLLYWOOD ➾ 24/7",CM: Bollywood 4 FHD
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=636154&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=636154&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:-1 tvg-id="196" tvg-name="IN: Star Gold FHD" tvg-logo="https://i.postimg.cc/B6GtnkYy/Star-Gold-HD-2011.webp" group-title="INDIAN",IN: Star Gold FHD
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=155969&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=155969&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:-1 tvg-id="207" tvg-name="IN: Zee Action" tvg-logo="https://i.postimg.cc/76MhG9dV/Zee-Cinema-logo.png" group-title="INDIAN",IN: Zee Cinema
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=155975&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=155975&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:-1 tvg-id="440429" tvg-name="HINDI: MINIPLEX HD" tvg-logo="https://i.postimg.cc/BbD2dKvW/miniplexhd.png" group-title="ASIA| HINDI",HINDI: MINIPLEX HD
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=156020&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=156020&extension=ts&play_token=I2SCCuR5y7
 
 
 
 
 #EXTINF:-1 tvg-id="440435" tvg-name="HINDI: MOVIES NOW HD" tvg-logo="https://i.postimg.cc/qvrWDc7n/moviesnow.png" group-title="ASIA| HINDI",HINDI: MOVIES NOW HD
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=156022&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=156022&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:-1 tvg-id="440432" tvg-name="HINDI: MNX HD" tvg-logo="https://i.postimg.cc/nzYrj2g6/MNX-new-logo.png" group-title="ASIA| HINDI",HINDI: MNX HD
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=156021&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=156021&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:-1 tvg-id="189" tvg-name="IN: Sony Pix FHD" tvg-logo="https://i.postimg.cc/V6Bvrg2c/SONY-PIX-SD.webp" group-title="INDIAN",IN: Sony Pix FHD
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=156004&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=156004&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:0.1tvg-id="" tvg-name="star movies" tvg-logo="https://i.postimg.cc/tTtJZk8X/image.png" group-title="PAKISTAN | ENTERTAINMENT",Star Movies
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=1116488&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=1116488&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:0.1tvg-id="" tvg-name="star movies" tvg-logo="https://i.postimg.cc/NM7F9DZM/image.png" group-title="PAKISTAN | ENTERTAINMENT",Star Movies Select
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=155729&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=155729&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:0.1tvg-id="" tvg-name="Hbo" tvg-logo="https://i.postimg.cc/pXRJy1hJ/hbo.png" group-title="PAKISTAN | ENTERTAINMENT",HBO
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=1920197&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=1920197&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:-1 tvg-id="483" tvg-name="UK: Sky Cinema Premiere" tvg-logo="https://i.postimg.cc/c1FYF1k2/latest-cb-20200702150346.jpg" group-title="UNITED KINGDOM",UK: Sky Cinema Premiere
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=30512&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=30512&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:-1 tvg-id="483" tvg-name="UK: Sky Cinema Premiere" tvg-logo="https://i.postimg.cc/BZmDmZwQ/latest-cb-20201029120808.jpg" group-title="UNITED KINGDOM",UK: Sky Cinema Thriller
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=1458787&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=1458787&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:-1 tvg-id="483" tvg-name="UK: Sky Cinema Premiere" tvg-logo="https://i.postimg.cc/qMgKSf9k/latest-cb-20200702151124.jpg" group-title="UNITED KINGDOM",UK: Sky Cinema Hits
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=1458790&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=1458790&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:-1 tvg-id="483" tvg-name="UK: Sky Cinema Premiere" tvg-logo="https://i.postimg.cc/DymGHVtw/latest-cb-20210118213113.jpg" group-title="UNITED KINGDOM",UK: Sky Cinema Action
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=30517&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=30517&extension=ts&play_token=I2SCCuR5y7
 
 
 
 #EXTINF:-1 tvg-id="1916904" tvg-name="EN| ONEPLAY PREMIERE ᴴᴰ" tvg-logo="https://i.postimg.cc/Vvf6jMcN/JV0y8y-Q-md.png" group-title="24/7 ONEPLAY",EN| ONEPLAY PREMIERE ᴴᴰ
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=1916904&extension=ts&play_token=B7ySYnh3Hp
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=1916904&extension=ts&play_token=B7ySYnh3Hp
 
 #EXTINF:-1 tvg-id="1916903" tvg-name="EN| ONEPLAY EXTRA ᴴᴰ" tvg-logo="https://i.postimg.cc/yx1dF9zW/JV0yi6g-md.png" group-title="24/7 ONEPLAY",EN| ONEPLAY EXTRA ᴴᴰ
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=1916903&extension=ts&play_token=8dR7uZPDpR
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=1916903&extension=ts&play_token=8dR7uZPDpR
  
 #EXTINF:-1 tvg-id="1916902" tvg-name="EN| ONEPLAY BESTOFF ᴴᴰ" tvg-logo="https://i.postimg.cc/1Xmtp6Z8/JV19FSf-md.png" group-title="24/7 ONEPLAY",EN| ONEPLAY BESTOFF ᴴᴰ
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=1916902&extension=ts&play_token=4DNEH0DgWw
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=1916902&extension=ts&play_token=4DNEH0DgWw
  
 #EXTINF:-1 tvg-id="1916901" tvg-name="EN| ONEPLAY ACTION ᴴᴰ" tvg-logo="https://i.postimg.cc/7hH6g7yg/JV19ASj-md.png" group-title="24/7 ONEPLAY",EN| ONEPLAY ACTION ᴴᴰ
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=1916901&extension=ts&play_token=vR6qHq3kPA
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=1916901&extension=ts&play_token=vR6qHq3kPA
  
 #EXTINF:-1 tvg-id="1916900" tvg-name="EN| ONEPLAY ACTION+1 ᴴᴰ" tvg-logo="https://i.postimg.cc/7hH6g7yg/JV19ASj-md.png" group-title="24/7 ONEPLAY",EN| ONEPLAY ACTION+1 ᴴᴰ
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=1916900&extension=ts&play_token=FF22d8Q3SD
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=1916900&extension=ts&play_token=FF22d8Q3SD
  
  
 #EXTINF:-1 tvg-id="1916898" tvg-name="EN| ONEPLAY THRILLER ᴴᴰ" tvg-logo="https://i.postimg.cc/D0vZqsKd/JV198fn-md.png" group-title="24/7 ONEPLAY",EN| ONEPLAY THRILLER ᴴᴰ
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=1916898&extension=ts&play_token=C7pcAtyzVb
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=1916898&extension=ts&play_token=C7pcAtyzVb
  
 
  
 #EXTINF:-1 tvg-id="1916896" tvg-name="EN| ONEPLAY WARZONE ᴴᴰ" tvg-logo="https://i.postimg.cc/cCFJTHst/JV19sx-S-md.png" group-title="24/7 ONEPLAY",EN| ONEPLAY WARZONE ᴴᴰ
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=1916896&extension=ts&play_token=BHvpPVwxLY
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=1916896&extension=ts&play_token=BHvpPVwxLY
  
  
 #EXTINF:-1 tvg-id="1916893" tvg-name="EN| ONEPLAY FANTASY ᴴᴰ" tvg-logo="https://i.postimg.cc/7hKLX6xg/JV1Hoe-R-md.png" group-title="24/7 ONEPLAY",EN| ONEPLAY FANTASY ᴴᴰ
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=1916893&extension=ts&play_token=sBeBPJWIRj
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=1916893&extension=ts&play_token=sBeBPJWIRj
  
 #EXTINF:-1 tvg-id="1916892" tvg-name="EN| ONEPLAY WESTERN ᴴᴰ" tvg-logo="https://i.postimg.cc/XqsvxJVL/JV1HML7-md.png" group-title="24/7 ONEPLAY",EN| ONEPLAY WESTERN ᴴᴰ
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=1916892&extension=ts&play_token=PqrOz6vV1C
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=1916892&extension=ts&play_token=PqrOz6vV1C
  
 #EXTINF:-1 tvg-id="1916891" tvg-name="EN| ONEPLAY 90s ᴴᴰ" tvg-logo="https://i.postimg.cc/XqsvxJVH/JV1Hem-Q-md.png" group-title="24/7 ONEPLAY",EN| ONEPLAY 90s ᴴᴰ
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=1916891&extension=ts&play_token=spGb3U2qAt
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=1916891&extension=ts&play_token=spGb3U2qAt
  
 #EXTINF:-1 tvg-id="1916890" tvg-name="EN| ONEPLAY CLASSICS ᴴᴰ" tvg-logo="https://i.postimg.cc/vT0mXBQK/JV1Hg-B1-md.png" group-title="24/7 ONEPLAY",EN| ONEPLAY CLASSICS ᴴᴰ
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=1916890&extension=ts&play_token=i5pUIsrf6I
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=1916890&extension=ts&play_token=i5pUIsrf6I
 
 
 
@@ -546,8 +568,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=290&deviceMac=00:1A:79:0B:3E:D7&uid=6
 #EXTINF:-1 tvg-id="291" tvg-name="SP: Sony Sports 3 FHD" tvg-logo="https://i.postimg.cc/26CpnmLW/3a556ed.png" group-title="SPORTS",SP: Sony Sports 3 FHD
 http://tv.cloudcdn.me:80/live.ts?channelId=291&deviceMac=00:1A:79:0B:3E:D7&uid=6769
 
-#EXTINF:-1 tvg-id="105349" tvg-name="SP: Sony Sports 4 FHD" tvg-logo="https://i.postimg.cc/tT90Fynz/eb923d9.png" group-title="SPORTS",SP: Sony Sports 4 FHD
-http://tv.cloudcdn.me:80/live.ts?channelId=105349&deviceMac=00:1A:79:0B:3E:D7&uid=6769
 
 #EXTINF:-1 tvg-id="105350" tvg-name="SP: Sony Sports 5 FHD" tvg-logo="https://i.postimg.cc/XJnM93y0/9327ac5.png" group-title="SPORTS",SP: Sony Sports 5 FHD
 http://tv.cloudcdn.me:80/live.ts?channelId=105350&deviceMac=00:1A:79:0B:3E:D7&uid=6769
@@ -578,25 +598,25 @@ http://tv.cloudcdn.me:80/live.ts?channelId=270&deviceMac=00:1A:79:0B:3E:D7&uid=6
 
 
 #EXTINF:0.1tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="https://i.postimg.cc/NfdmFGwj/Scooby-Doo-Logo-1536x864.png" group-title="INDIAN | KIDS Cartoon",SCOOBY DOO
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=1942367&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=1942367&extension=ts&play_token=I2SCCuR5y7
 
 #EXTINF:0.1tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="https://i.postimg.cc/L4NnByQj/tomandjerry.png" group-title="INDIAN | KIDS Cartoon",TOM AND Jerry
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=1430176&extension=ts&play_token=5A6ZIIWniK
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=1430176&extension=ts&play_token=5A6ZIIWniK
 
 
 #EXTINF:0.1tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="https://i.postimg.cc/W1F46Txq/Kids-Zonelogo-sm.webp" group-title="INDIAN | KIDS Cartoon",Kids zone
 http://tv.cloudcdn.me:80/live.ts?channelId=19754&deviceMac=00:1A:79:0B:3E:D7&uid=6769
 
 #EXTINF:0.1tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="https://i.postimg.cc/x1JdynBH/960px-Cartoon-Network-2010-logo-svg.png" group-title="INDIAN | KIDS Cartoon",IN: Cartoon Network
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=280748&extension=ts&play_token=ZFqeDcHtql
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=280748&extension=ts&play_token=ZFqeDcHtql
 
 
-#EXTINF:0.1tvg-id="cartoonnetworkhd.in1" tvg-name="IN: Cartoon Network" tvg-logo="https://i.postimg.cc/x1JdynBH/960px-Cartoon-Network-2010-logo-svg.png" group-title="INDIAN | KIDS Cartoon",IN: Cartoon Network 1
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=1430261&extension=ts&play_token=s8jWpuFQCz
+#EXTINF:0.1tvg-id="cartoonnetworkhd.in1" tvg-name="IN: Cartoon Network" tvg-logo="https://i.postimg.cc/cLP6sh4b/500px-Boomerang-2014-logo-svg-png-utm-source-en-wikipedia.png" group-title="INDIAN | KIDS Cartoon",IN: Cartoon Network 1
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=45608&extension=ts&play_token=s8jWpuFQCz
 
 
 #EXTINF:0.1tvg-id="nick.in" tvg-name="IN: Nick" tvg-logo="https://i.postimg.cc/4x73bsj1/960px-Nickelodeon-2009-logo-svg.png" group-title="INDIAN | KIDS Cartoon",IN: Nick
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=1540023&extension=ts&play_token=I2SCCuR5y7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=1540023&extension=ts&play_token=I2SCCuR5y7
 
 
 
@@ -618,10 +638,10 @@ http://tv.cloudcdn.me:80/live.ts?channelId=33167&deviceMac=00:1A:79:0B:3E:D7&uid
 http://tv.cloudcdn.me:80/live.ts?channelId=4223&deviceMac=00:1A:79:0B:3E:D7&uid=6769
 
 #EXTINF:0.1tvg-id="discoveryhd.in" tvg-name="IND: Discovery Hindi" tvg-logo="https://i.postimg.cc/D0q47FdM/discovery-channel-logo-1-1.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=1737816&extension=ts&play_token=ZlTRkDjtT7
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=1737816&extension=ts&play_token=ZlTRkDjtT7
 
 #EXTINF:0.1tvg-id="" tvg-name="IND: Discovery Science" tvg-logo="https://i.postimg.cc/sDg3jscQ/Discovery-Science-2017-Logo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Science
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=45441&extension=ts&play_token=vyCw7pNSVe
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=45441&extension=ts&play_token=vyCw7pNSVe
 
 #EXTINF:0.1tvg-id="" tvg-name="IND: Discovery Science" tvg-logo="https://i.postimg.cc/sDg3jscQ/Discovery-Science-2017-Logo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Science
 http://tv.cloudcdn.me:80/live.ts?channelId=25891&deviceMac=00:1A:79:0B:3E:D7&uid=6769
@@ -630,20 +650,20 @@ http://tv.cloudcdn.me:80/live.ts?channelId=25891&deviceMac=00:1A:79:0B:3E:D7&uid
 http://tv.cloudcdn.me:80/live.ts?channelId=125057&deviceMac=00:1A:79:0B:3E:D7&uid=6769
 
 #EXTINF:0.1tvg-id="0" tvg-name="Af | DSTV: National Geographic HD *" tvg-logo="https://i.postimg.cc/CMbMKckQ/284-2843034-source-national-geographic-logo-white.png" group-title="DSTV | DOCUMENTARY",Af | DSTV: National Geographic HD *
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=45453&extension=ts&play_token=4mvlOQqXs5
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=45453&extension=ts&play_token=4mvlOQqXs5
 
 #EXTINF:0.1tvg-id="0" tvg-name="Af | DSTV: National Geographic WILD HD*" tvg-logo="https://i.postimg.cc/zvTfZjS0/Nat-Geo-Wild-logo-png-utm-source-commons-wikimedia.png" group-title="DSTV | DOCUMENTARY",Af | DSTV: National Geographic WILD HD*
 http://tv.cloudcdn.me:80/live.ts?channelId=177&deviceMac=00:1A:79:0B:3E:D7&uid=6769
 
 #EXTINF:0.1tvg-id="0" tvg-name="Af | DSTV: National Geographic WILD HD*" tvg-logo="https://i.postimg.cc/zvTfZjS0/Nat-Geo-Wild-logo-png-utm-source-commons-wikimedia.png" group-title="DSTV | DOCUMENTARY",Af | DSTV: National Geographic WILD HD*
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=45452&extension=ts&play_token=a6ZbzhI9ZB
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=45452&extension=ts&play_token=a6ZbzhI9ZB
 
 
 #EXTINF:0.1tvg-id="" tvg-name="IN: Animal Planet" tvg-logo="https://i.postimg.cc/nrhmnNMx/Animal-Planet-Logo1.webp" group-title="INDIAN ALL",IN: Animal Planet
 http://tv.cloudcdn.me:80/live.ts?channelId=44637&deviceMac=00:1A:79:0B:3E:D7&uid=6769
 
 #EXTINF:0.1tvg-id="" tvg-name="IN: Animal Planet" tvg-logo="https://i.postimg.cc/nrhmnNMx/Animal-Planet-Logo1.webp" group-title="INDIAN ALL",IN: Animal Planet
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:58:5E:18&stream=45447&extension=ts&play_token=H5sGtGlqNQ
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=45447&extension=ts&play_token=H5sGtGlqNQ
 
 #EXTINF:0.1tvg-id="" tvg-name="Sony BBC Ear (4K)" tvg-logo="https://i.postimg.cc/13k3vbQt/Rnz-I34c.webp" group-title="INDIAN | 4K ULTRA HD",Sony BBC Ear (4K)
 http://tv.cloudcdn.me:80/live.ts?channelId=12366&uid&deviceMac=00:1A:79:0B:3E:D7&uid=6769
