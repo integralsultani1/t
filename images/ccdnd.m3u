@@ -216,10 +216,10 @@ http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=1920888
 #EXTINF:0.1tvg-id="" tvg-name="france24" tvg-logo="https://i.postimg.cc/qB1n1BDj/france24.jpg" group-title="DSTV | NEWS", France 24
 http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=149653&extension=ts&play_token=I2SCCuR5y7
 
-#EXTINF:0.1tvg-id="" tvg-name="RT News" tvg-logo="https://i.postimg.cc/mZV7w3kq/latest-cb-20180603181710.jpg" group-title="DSTV | NEWS", Russian Today
+#EXTINF:0.1tvg-id="" tvg-name="RT News" tvg-logo="https://i.postimg.cc/yxJ9R64C/Russia-today.jpg" group-title="DSTV | NEWS", Russian Today
 http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=149648&extension=ts&play_token=I2SCCuR5y7
 
-#EXTINF:0.1tvg-id="" tvg-name="DW News" tvg-logo="https://i.postimg.cc/wvgqvGKt/DW-(TV)-Logo-2012-png-utm-source-commons-wikimedia.png" group-title="DSTV | NEWS", DW News
+#EXTINF:0.1tvg-id="" tvg-name="DW News" tvg-logo="https://i.postimg.cc/y8BN0601/dwnnews.jpg" group-title="DSTV | NEWS", DW News
 http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=237963&extension=ts&play_token=I2SCCuR5y7
 
 #EXTINF:0.1tvg-id="" tvg-name="NHK World Japan" tvg-logo="https://i.postimg.cc/mDnzvj93/nhkworld.png" group-title="DSTV | NEWS", NHK World Japan
@@ -233,6 +233,9 @@ http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=45438&e
 
 #EXTINF:0.1tvg-id="" tvg-name="CGTN" tvg-logo="https://i.postimg.cc/yYLdtvzz/CGTN.png" group-title="DSTV | NEWS", CGTN China
 http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=156413&extension=ts&play_token=I2SCCuR5y7
+
+#EXTINF:0.1tvg-id="" tvg-name="Press TV Iran" tvg-logo="https://i.postimg.cc/Vvx8fgWW/presstv.jpg" group-title="DSTV | NEWS", Press TV Iran
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=505073&extension=ts&play_token=I2SCCuR5y7
 
 
 
@@ -553,10 +556,10 @@ http://tv.cloudcdn.me:80/live.ts?channelId=26034&deviceMac=00:1A:79:0B:3E:D7&uid
 #EXTINF:0.1tvg-id="" tvg-name="sky sports cricket" tvg-logo="https://i.postimg.cc/5Ntyyw3K/Sky-sports-main-cricket.jpgg" group-title="CRICKET",Sky sports cricket
 http://tv.cloudcdn.me:80/live.ts?channelId=281&deviceMac=00:1A:79:0B:3E:D7&uid=6769
 
-#EXTINF:0.1tvg-id="" tvg-name="star sports" tvg-logo="https://i.postimg.cc/BZFhny6D/starsport1.png" group-title="CRICKET", Star sports 1
+#EXTINF:0.1tvg-id="" tvg-name="star sports" tvg-logo="https://i.postimg.cc/9Mz0zxZ6/image-(7).png" group-title="CRICKET", Star sports 1
 http://tv.cloudcdn.me:80/live.ts?channelId=295&deviceMac=00:1A:79:0B:3E:D7&uid=6769
 
-#EXTINF:0.1tvg-id="" tvg-name="star sports" tvg-logo="https://i.postimg.cc/JhkJjCCB/image-(3).png" group-title="CRICKET", Star sports 2
+#EXTINF:0.1tvg-id="" tvg-name="star sports" tvg-logo="https://i.postimg.cc/d1D3DWGM/image-(6).png" group-title="CRICKET", Star sports 2
 http://tv.cloudcdn.me:80/live.ts?channelId=132883&deviceMac=00:1A:79:0B:3E:D7&uid=6769
 
 #EXTINF:-1 tvg-id="289" tvg-name="SP: Sony Sports 1 FHD" tvg-logo="https://i.postimg.cc/g0VFwrjV/4fa225b.png" group-title="SPORTS",SP: Sony Sports 1 FHD
@@ -611,7 +614,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=19754&deviceMac=00:1A:79:0B:3E:D7&uid
 http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=280748&extension=ts&play_token=ZFqeDcHtql
 
 
-#EXTINF:0.1tvg-id="cartoonnetworkhd.in1" tvg-name="IN: Cartoon Network" tvg-logo="https://i.postimg.cc/cLP6sh4b/500px-Boomerang-2014-logo-svg-png-utm-source-en-wikipedia.png" group-title="INDIAN | KIDS Cartoon",IN: Cartoon Network 1
+#EXTINF:0.1tvg-id="cartoonnetworkhd.in1" tvg-name="IN: Cartoon Network" tvg-logo="https://i.postimg.cc/cLP6sh4b/500px-Boomerang-2014-logo-svg-png-utm-source-en-wikipedia.png" group-title="INDIAN | KIDS Cartoon",IN: Boomerang
 http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=45608&extension=ts&play_token=s8jWpuFQCz
 
 
@@ -634,36 +637,38 @@ http://tv.cloudcdn.me:80/live.ts?channelId=256&deviceMac=00:1A:79:0B:3E:D7&uid=6
 #EXTINF:0.1tvg-id="" tvg-name="PK: Discover Pakistan" tvg-logo="https://i.postimg.cc/GmWmX61f/Discover-Pakistan-Logo.png" group-title="PAKISTAN | ENTERTAINMENT",PK: Discover Pakistan
 http://tv.cloudcdn.me:80/live.ts?channelId=33167&deviceMac=00:1A:79:0B:3E:D7&uid=6769
 
-#EXTINF:0.1tvg-id="discoveryhd.in" tvg-name="IND: Discovery Hindi" tvg-logo="https://i.postimg.cc/D0q47FdM/discovery-channel-logo-1-1.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery
+#EXTINF:0.1tvg-id="discovery" tvg-name="Discovery" tvg-logo="https://i.postimg.cc/D0q47FdM/discovery-channel-logo-1-1.png" group-title="DOCUMENTARY", Discovery
 http://tv.cloudcdn.me:80/live.ts?channelId=4223&deviceMac=00:1A:79:0B:3E:D7&uid=6769
 
-#EXTINF:0.1tvg-id="discoveryhd.in" tvg-name="IND: Discovery Hindi" tvg-logo="https://i.postimg.cc/D0q47FdM/discovery-channel-logo-1-1.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery
+#EXTINF:0.1tvg-id="discovery" tvg-name="Discovery US" tvg-logo="https://i.postimg.cc/D0q47FdM/discovery-channel-logo-1-1.png" group-title="DOCUMENTARY", Discovery US
 http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=1737816&extension=ts&play_token=ZlTRkDjtT7
 
-#EXTINF:0.1tvg-id="" tvg-name="IND: Discovery Science" tvg-logo="https://i.postimg.cc/sDg3jscQ/Discovery-Science-2017-Logo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Science
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=45441&extension=ts&play_token=vyCw7pNSVe
 
-#EXTINF:0.1tvg-id="" tvg-name="IND: Discovery Science" tvg-logo="https://i.postimg.cc/sDg3jscQ/Discovery-Science-2017-Logo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Science
+#EXTINF:0.1tvg-id="" tvg-name="Discovery Science" tvg-logo="https://i.postimg.cc/sDg3jscQ/Discovery-Science-2017-Logo.png" group-title="DOCUMENTARY", Discovery Science
 http://tv.cloudcdn.me:80/live.ts?channelId=25891&deviceMac=00:1A:79:0B:3E:D7&uid=6769
 
-#EXTINF:0.1tvg-id="0" tvg-name="Af | DSTV: National Geographic HD *" tvg-logo="https://i.postimg.cc/CMbMKckQ/284-2843034-source-national-geographic-logo-white.png" group-title="DSTV | DOCUMENTARY",Af | DSTV: National Geographic HD *
+#EXTINF:0.1tvg-id="" tvg-name="Discovery Science US" tvg-logo="https://i.postimg.cc/sDg3jscQ/Discovery-Science-2017-Logo.png" group-title="DOCUMENTARY", Discovery Science US
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=45441&extension=ts&play_token=vyCw7pNSVe
+
+
+#EXTINF:0.1tvg-id="0" tvg-name="National Geographic" tvg-logo="https://i.postimg.cc/CMbMKckQ/284-2843034-source-national-geographic-logo-white.png" group-title="DOCUMENTARY", National Geographic
 http://tv.cloudcdn.me:80/live.ts?channelId=125057&deviceMac=00:1A:79:0B:3E:D7&uid=6769
 
-#EXTINF:0.1tvg-id="0" tvg-name="Af | DSTV: National Geographic HD *" tvg-logo="https://i.postimg.cc/CMbMKckQ/284-2843034-source-national-geographic-logo-white.png" group-title="DSTV | DOCUMENTARY",Af | DSTV: National Geographic HD *
+#EXTINF:0.1tvg-id="0" tvg-name="National Geographic US" tvg-logo="https://i.postimg.cc/CMbMKckQ/284-2843034-source-national-geographic-logo-white.png" group-title="DOCUMENTARY", National Geographic US
 http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=45453&extension=ts&play_token=4mvlOQqXs5
 
-#EXTINF:0.1tvg-id="0" tvg-name="Af | DSTV: National Geographic WILD HD*" tvg-logo="https://i.postimg.cc/zvTfZjS0/Nat-Geo-Wild-logo-png-utm-source-commons-wikimedia.png" group-title="DSTV | DOCUMENTARY",Af | DSTV: National Geographic WILD HD*
+#EXTINF:0.1tvg-id="0" tvg-name=" Nat Geo WILD" tvg-logo="https://i.postimg.cc/zvTfZjS0/Nat-Geo-Wild-logo-png-utm-source-commons-wikimedia.png" group-title="DOCUMENTARY", Nat Geo WILD
 http://tv.cloudcdn.me:80/live.ts?channelId=177&deviceMac=00:1A:79:0B:3E:D7&uid=6769
 
-#EXTINF:0.1tvg-id="0" tvg-name="Af | DSTV: National Geographic WILD HD*" tvg-logo="https://i.postimg.cc/zvTfZjS0/Nat-Geo-Wild-logo-png-utm-source-commons-wikimedia.png" group-title="DSTV | DOCUMENTARY",Af | DSTV: National Geographic WILD HD*
+#EXTINF:0.1tvg-id="0" tvg-name=" Nat Geo WILD US" tvg-logo="https://i.postimg.cc/zvTfZjS0/Nat-Geo-Wild-logo-png-utm-source-commons-wikimedia.png" group-title="DOCUMENTARY", Nat Geo WILD US
 http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=45452&extension=ts&play_token=a6ZbzhI9ZB
 
 
-#EXTINF:0.1tvg-id="" tvg-name="IN: Animal Planet" tvg-logo="https://i.postimg.cc/nrhmnNMx/Animal-Planet-Logo1.webp" group-title="INDIAN ALL",IN: Animal Planet
+#EXTINF:0.1tvg-id="" tvg-name="Animal Planet" tvg-logo="https://i.postimg.cc/nrhmnNMx/Animal-Planet-Logo1.webp" group-title="DOCUMENTARY", Animal Planet
 http://tv.cloudcdn.me:80/live.ts?channelId=44637&deviceMac=00:1A:79:0B:3E:D7&uid=6769
 
-#EXTINF:0.1tvg-id="" tvg-name="IN: Animal Planet" tvg-logo="https://i.postimg.cc/nrhmnNMx/Animal-Planet-Logo1.webp" group-title="INDIAN ALL",IN: Animal Planet
+#EXTINF:0.1tvg-id="" tvg-name="Animal Planet US" tvg-logo="https://i.postimg.cc/nrhmnNMx/Animal-Planet-Logo1.webp" group-title="DOCUMENTARY", Animal Planet US
 http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=45447&extension=ts&play_token=H5sGtGlqNQ
 
-#EXTINF:0.1tvg-id="" tvg-name="Sony BBC Ear (4K)" tvg-logo="https://i.postimg.cc/13k3vbQt/Rnz-I34c.webp" group-title="INDIAN | 4K ULTRA HD",Sony BBC Ear (4K)
+#EXTINF:0.1tvg-id="" tvg-name="Sony BBC Ear (4K)" tvg-logo="https://i.postimg.cc/13k3vbQt/Rnz-I34c.webp" group-title="DOCUMENTARY",Sony BBC Ear (4K)
 http://tv.cloudcdn.me:80/live.ts?channelId=12366&uid&deviceMac=00:1A:79:0B:3E:D7&uid=6769
