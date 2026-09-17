@@ -626,7 +626,7 @@ http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=1540023
 #EXTINF:0.1tvg-id="" tvg-name="24/7 MOTU PATLU 01" tvg-logo="https://i.postimg.cc/9McQyTGp/latest-cb-20200529003929.webp" group-title="",MOTU PATLU
 http://filex.me:8080/live/mohsinbashir/002784/957364.ts
 
-#EXTINF:0.1tvg-id="pogo.in" tvg-name="Pogo" tvg-logo="https://i.postimg.cc/fRGR81h5/POGO-logo.png" group-title=" ",Pogo
+#EXTINF:0.1tvg-id="pogo.in" tvg-name="Pogo" tvg-logo="https://i.postimg.cc/fRGR81h5/POGO-logo.png" group-title="",Pogo
 http://tv.cloudcdn.me:80/live.ts?channelId=256&deviceMac=00:1A:79:0B:3E:D7&uid=6769
 
 
