@@ -243,7 +243,6 @@ http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=505073&
 
 
 
-
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="255" tvg-name="NDTV 24X7" tvg-logo="https://i.postimg.cc/8zB8MYtM/Ndtv-logo.png" group-title="",NDTV
 http://tv.cloudcdn.me:80/live.ts?channelId=178&deviceMac=00:1A:79:0B:3E:D7&uid=6769
 
@@ -411,8 +410,8 @@ http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=1532831
 http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=280744&extension=ts&play_token=I2SCCuR5y7
 
 
-#EXTINF:-1 tvg-id="170" tvg-name="& Privé " tvg-logo="https://i.postimg.cc/25WVmrwm/Prive-HD-Logo-2025.png" group-title="",& Privé 
-http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=155746&extension=ts&play_token=I2SCCuR5y7
+#EXTINF:-1 tvg-id="170" tvg-name="& Xplore" tvg-logo="https://i.postimg.cc/3NcXfSHY/xplore.webp" group-title="",& Xplore
+http://vpn.full-keys4k.xyz:80/play/live.php?mac=00:1A:79:D5:5D:7C&stream=209743&extension=ts&play_token=I2SCCuR5y7
 
 
 #EXTINF:-1 tvg-id="152" tvg-name="B4U Movies" tvg-logo="https://i.postimg.cc/Xv5p348Y/B4U-MOVIES-2014.webp" group-title="",B4U Movies
