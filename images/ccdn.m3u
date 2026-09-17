@@ -247,6 +247,7 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:1C:01:AA&stream=239996&exten
 
 
 
+
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="255" tvg-name="NDTV 24X7" tvg-logo="https://i.postimg.cc/8zB8MYtM/Ndtv-logo.png" group-title="",NDTV
 http://tv.cloudcdn.me:80/live.ts?channelId=178&deviceMac=00:1A:79:0B:3E:D7&uid=6769
 
@@ -414,8 +415,8 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:1C:01:AA&stream=440347&exten
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:1C:01:AA&stream=440349&extension=ts&play_token=z14ZoCgDaR
 
 
-#EXTINF:-1 tvg-id="170" tvg-name="& Privé" tvg-logo="https://i.postimg.cc/25WVmrwm/Prive-HD-Logo-2025.png" group-title="",& Privé
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:1C:01:AA&stream=441190&extension=ts&play_token=z14ZoCgDaR
+#EXTINF:-1 tvg-id="170" tvg-name="& Xplore" tvg-logo="https://i.postimg.cc/3NcXfSHY/xplore.webp" group-title="",& Xplore
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:1C:01:AA&stream=440281&extension=ts&play_token=z14ZoCgDaR
 
 
 #EXTINF:-1 tvg-id="152" tvg-name="B4U Movies" tvg-logo="https://i.postimg.cc/Xv5p348Y/B4U-MOVIES-2014.webp" group-title="",B4U Movies
