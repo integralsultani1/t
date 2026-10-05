@@ -200,7 +200,7 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:1C:01:AA&stream=162155&exten
 
 
 #EXTINF:0.1tvg-id="dunyanews.pk" tvg-name="Al Jazeera" tvg-logo="https://i.postimg.cc/7YXzQHBK/aljazeera-uk.png" group-title="", Al Jazeera 1
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:1C:01:AA&stream=1181170&extension=ts&play_token=XJbtqVPX5L
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:1C:01:AA&stream=499580&extension=ts&play_token=XJbtqVPX5L
 
 
 
@@ -384,10 +384,10 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:1C:01:AA&stream=440279&exten
 
 
 #EXTINF:-1 tvg-id="183" tvg-name="Sony Max 2" tvg-logo="https://i.postimg.cc/Y0STHqHt/1000-cb-20221026151354.webp" group-title="",Sony Max 2
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:1C:01:AA&stream=440274&extension=ts&play_token=z14ZoCgDaR
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:1C:01:AA&stream=440276&extension=ts&play_token=z14ZoCgDaR
 
 #EXTINF:-1 tvg-id="184" tvg-name="Sony Max" tvg-logo="https://i.postimg.cc/Vv5ZhGqR/latest-cb-20221025030422.webp" group-title="",Sony Max
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:1C:01:AA&stream=1015334&extension=ts&play_token=z14ZoCgDaR
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:1C:01:AA&stream=440274&extension=ts&play_token=z14ZoCgDaR
 
 
 #EXTINF:-1 tvg-id="188" tvg-name="Sony Pal" tvg-logo="https://i.postimg.cc/BnkXdXx9/SONY-PAL-LOGO.webp" group-title="",Sony Pal
@@ -480,19 +480,19 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:1C:01:AA&stream=325972&exten
 
 
 
-#EXTINF:-1 tvg-id="483" tvg-name="Sky Cinema Premiere" tvg-logo="https://i.postimg.cc/GtWWwjk5/Sky-Cinema-Premiere-ID-2026-(1).jpg" group-title="",Sky Cinema Premiere
+#EXTINF:-1 tvg-id="483" tvg-name="Sky Cinema Premiere" tvg-logo="https://i.postimg.cc/JzJqgJ1Z/skycinpremiere.png" group-title="",Sky Cinema Premiere
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:1C:01:AA&stream=162357&extension=ts&play_token=z14ZoCgDaR
 
 
-#EXTINF:-1 tvg-id="483" tvg-name="Sky Cinema Premiere" tvg-logo="https://i.postimg.cc/mkvvfSQ6/Sky-Cinema-Thriller-ID-2026-(1).jpg" group-title="",Sky Cinema Thriller
+#EXTINF:-1 tvg-id="483" tvg-name="Sky Cinema Premiere" tvg-logo="https://i.postimg.cc/T3m9SmRn/skycinemathriller.png" group-title="",Sky Cinema Thriller
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:1C:01:AA&stream=639183&extension=ts&play_token=z14ZoCgDaR
 
 
-#EXTINF:-1 tvg-id="483" tvg-name="Sky Cinema Premiere" tvg-logo="https://i.postimg.cc/d3bbP92M/Sky-Cinema-Hits-ID-2026-(1).jpg" group-title="",Sky Cinema Hits
+#EXTINF:-1 tvg-id="483" tvg-name="Sky Cinema Premiere" tvg-logo="https://i.postimg.cc/R0BRzFFF/skycinemahits.png" group-title="",Sky Cinema Hits
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:1C:01:AA&stream=639199&extension=ts&play_token=z14ZoCgDaR
 
 
-#EXTINF:-1 tvg-id="483" tvg-name="Sky Cinema Premiere" tvg-logo="https://i.postimg.cc/nryyb1vg/Sky-Cinema-Action-ID-2026-(1).jpg" group-title="",Sky Cinema Action
+#EXTINF:-1 tvg-id="483" tvg-name="Sky Cinema Premiere" tvg-logo="https://i.postimg.cc/DzTgKZZ0/skycinemaaction.png" group-title="",Sky Cinema Action
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:1C:01:AA&stream=162329&extension=ts&play_token=z14ZoCgDaR
 
 
@@ -602,7 +602,7 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:1C:01:AA&stream=696040&exten
 http://tv.cloudcdn.me:80/live.ts?channelId=19754&deviceMac=00:1A:79:0B:3E:D7&uid=6769
 
 #EXTINF:0.1tvg-id="cartoonnetworkhd.in" tvg-name="Cartoon Network" tvg-logo="https://i.postimg.cc/x1JdynBH/960px-Cartoon-Network-2010-logo-svg.png" group-title="",Cartoon Network
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:1C:01:AA&stream=440503&extension=ts&play_token=z14ZoCgDaR
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:1C:01:AA&stream=437670&extension=ts&play_token=z14ZoCgDaR
 
 
 #EXTINF:0.1tvg-id="cartoonnetworkhd.in1" tvg-name="Cartoon Network" tvg-logo="https://i.postimg.cc/cLP6sh4b/500px-Boomerang-2014-logo-svg-png-utm-source-en-wikipedia.png" group-title="",Boomerang
@@ -610,7 +610,7 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:1C:01:AA&stream=7234&extensi
 
 
 #EXTINF:0.1tvg-id="nick.in" tvg-name="Nick" tvg-logo="https://i.postimg.cc/4x73bsj1/960px-Nickelodeon-2009-logo-svg.png" group-title="",Nick
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:1C:01:AA&stream=1527653&extension=ts&play_token=z14ZoCgDaR
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:1C:01:AA&stream=441204&extension=ts&play_token=z14ZoCgDaR
 
 
 #EXTINF:0.1tvg-id="" tvg-name="24/7 MOTU PATLU 01" tvg-logo="https://i.postimg.cc/9McQyTGp/latest-cb-20200529003929.webp" group-title="",MOTU PATLU
