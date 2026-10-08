@@ -249,19 +249,19 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:1C:01:AA&stream=239996&exten
 
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="255" tvg-name="NDTV 24X7" tvg-logo="https://i.postimg.cc/8zB8MYtM/Ndtv-logo.png" group-title="",NDTV
-http://tv.cloudcdn.me:80/live.ts?channelId=178&deviceMac=00:1A:79:0B:3E:D7&uid=6769
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:1C:01:AA&stream=2078227&extension=ts&play_token=mXxH3trW4t
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="aajtakhd.in" tvg-name="TS AAJ TAK" tvg-logo="https://i.postimg.cc/T3wDzzFw/Aaj-Tak-HD-v2.webp" group-title="", AAJ TAK
-http://tv.cloudcdn.me:80/live.ts?channelId=144&deviceMac=00:1A:79:0B:3E:D7&uid=6769
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:1C:01:AA&stream=440299&extension=ts&play_token=mXxH3trW4t
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ddnewshd.in" tvg-name="TS DD NEWS" tvg-logo="https://i.postimg.cc/y8dZMMt3/DD-News-new-logo-2024.webp" group-title="", DD NEWS
-http://tv.cloudcdn.me:80/live.ts?channelId=163&deviceMac=00:1A:79:0B:3E:D7&uid=6769
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:1C:01:AA&stream=440359&extension=ts&play_token=mXxH3trW4t
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="news18urdu.in" tvg-name="NEWS18 URDU" tvg-logo="https://i.postimg.cc/cLHnpp2R/News18-Urdu-logo.png" group-title="",NEWS18 URDU
-http://tv.cloudcdn.me:80/live.ts?channelId=132558&deviceMac=00:1A:79:0B:3E:D7&uid=6769
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="news24.in" tvg-name="NEWS18 URDU" tvg-logo="https://i.postimg.cc/dV5PMZrV/News24-Logo.jpg" group-title="",NEWS 24
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:1C:01:AA&stream=440328&extension=ts&play_token=mXxH3trW4t
 
 #EXTINF:-1 tvg-id="126084" tvg-name="Republic Bharat" tvg-logo="https://i.postimg.cc/XYzC426B/R-Bharat.webp" group-title="",Republic Bharat
-http://tv.cloudcdn.me:80/live.ts?channelId=126084&deviceMac=00:1A:79:0B:3E:D7&uid=6769
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:1C:01:AA&stream=2078194&extension=ts&play_token=mXxH3trW4t
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="BD ATN News" tvg-name="NEWS18 URDU" tvg-logo="https://i.postimg.cc/T34Dfkvn/3d373fe.png" group-title="", ATN News
 http://tv.cloudcdn.me:80/live.ts?channelId=83&deviceMac=00:1A:79:0B:3E:D7&uid=6769
